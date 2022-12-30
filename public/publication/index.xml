@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Thomas Bury</title>
+    <link>https://thomasbury.net/publication/</link>
+      <atom:link href="https://thomasbury.net/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thomasbury.net/media/icon_hu62475075ac41b17f6088542ea7ebe917_177129_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://thomasbury.net/publication/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning for early warning signals of tipping points</title>
+      <link>https://thomasbury.net/publication/bury_pnas_21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/bury_pnas_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long ECGs reveal rich and robust dynamical regimes in patients with frequent ectopy</title>
+      <link>https://thomasbury.net/publication/bury_chaos_20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/bury_chaos_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and distinguishing tipping points using spectral early warning signals</title>
+      <link>https://thomasbury.net/publication/bury_interface_20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/bury_interface_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charting pathways to climate change mitigation in a coupled socio-climate model</title>
+      <link>https://thomasbury.net/publication/bury_plos_19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/bury_plos_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical dynamics in population vaccinating behavior</title>
+      <link>https://thomasbury.net/publication/pananos_pnas_17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/pananos_pnas_17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | Thomas Bury</title>
+    <link>https://thomasbury.net/tag/deep-learning/</link>
+      <atom:link href="https://thomasbury.net/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 14:24:52 -0400</lastBuildDate>
+    <image>
+      <url>https://thomasbury.net/media/icon_hu62475075ac41b17f6088542ea7ebe917_177129_512x512_fill_lanczos_center_3.png</url>
+      <title>deep learning</title>
+      <link>https://thomasbury.net/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Early warning signals for tipping points</title>
+      <link>https://thomasbury.net/project/early-warning-signals/</link>
+      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
+      <guid>https://thomasbury.net/project/early-warning-signals/</guid>
+      <description>&lt;p&gt;some text goes here.&lt;/p&gt;
+&lt;h3&gt; Relevant publications &lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for early warning signals of tipping points</title>
+      <link>https://thomasbury.net/publication/bury_pnas_21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/bury_pnas_21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

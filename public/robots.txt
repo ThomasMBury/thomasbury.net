@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://thomasbury.net/sitemap.xml
