@@ -23,4 +23,4 @@ Last updated on 29 December 2022
 
 ## Education
 
-Cambridge
+Cambridge University
