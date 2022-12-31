@@ -18,6 +18,8 @@ type: landing
 
 
 Last updated on 29 December 2022
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/thomas_bury_resume.pdf" "newtab" >}}Resumé (pdf){{< /staticref >}}
 __________
 
 
