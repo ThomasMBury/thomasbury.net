@@ -15,9 +15,9 @@ type: page
 
 
 ### Covers
-<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/468145977&color=%230d5417&auto_play=false&hide_related=false&show_comments=true&show_user=false&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/468145977&color=%23347aeb&auto_play=false&hide_related=false&show_comments=true&show_user=false&show_reposts=false&show_teaser=true"></iframe>
 
 <br><br>
 
 ### Originals
-<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/468146532&color=%230d5417&auto_play=false&hide_related=false&show_comments=true&show_user=false&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/468146532&color=%23347aeb&auto_play=false&hide_related=false&show_comments=true&show_user=false&show_reposts=false&show_teaser=true"></iframe>
