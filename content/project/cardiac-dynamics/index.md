@@ -33,6 +33,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-some text goes here.
-af klas fkjdkalf jkl;adjflk;jkal; jgklj al;j kldsajfkl;j ds;aj fklj afjlk;aj skfj;alj sdfj klajl;f jd asjfl;j skalj flkja slkfj l;jasklfj l;asj fkjdkalj fjsakl;fj ksaj fklja slkj fkdl;aj fkj ksl;jf k;djkal;fj ksjkf ;j askflj ;kljk

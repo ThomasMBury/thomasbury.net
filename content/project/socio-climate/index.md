@@ -35,7 +35,3 @@ image:
   preview_only: false
 
 ---
-
-To do: write summary with nice figs.
-
-<h3> Relevant publications </h3>
