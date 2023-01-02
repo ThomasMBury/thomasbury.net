@@ -4,27 +4,43 @@
   
   
   <url>
+    <loc>https://thomasbury.net/project/early-warning-signals/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/project/cardiac-dynamics/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/project/socio-climate/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/cv/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/dashboards/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/music/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/teaching/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://thomasbury.net/tag/bifurcation/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/tag/cardiac-arrhythmia/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://thomasbury.net/project/cardiac-dynamics/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://thomasbury.net/tag/climate-change/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/tag/critical-transition/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/tag/deep-learning/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://thomasbury.net/project/early-warning-signals/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://thomasbury.net/tag/early-warning-signal/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/tag/electrocardiogram/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/tag/machine-learning/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://thomasbury.net/tag/mathematical-model/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://thomasbury.net/project/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://thomasbury.net/tag/python/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://thomasbury.net/tag/social-learning/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/tags/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://thomasbury.net/tag/tensorflow/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/</loc><lastmod>2022-06-05T14:24:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -47,7 +63,5 @@
     <loc>https://thomasbury.net/publication/bury_plos_19/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/publication/pananos_pnas_17/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://thomasbury.net/teaching/</loc><priority>0</priority></url>
   <url>
     <loc>https://thomasbury.net/categories/</loc><changefreq>weekly</changefreq></url></urlset>

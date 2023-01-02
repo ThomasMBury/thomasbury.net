@@ -7,27 +7,286 @@
     <description>Thomas Bury</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 14:24:52 -0400</lastBuildDate>
     <image>
-      <url>https://thomasbury.net/media/icon_hu62475075ac41b17f6088542ea7ebe917_177129_512x512_fill_lanczos_center_3.png</url>
+      <url>https://thomasbury.net/media/icon_hu2aa9bae8c0adabd8158589a40109da99_109144_512x512_fill_lanczos_center_3.png</url>
       <title>Thomas Bury</title>
       <link>https://thomasbury.net/</link>
     </image>
     
     <item>
-      <title>Classification of cardiac dynamics</title>
+      <title>Tipping points</title>
+      <link>https://thomasbury.net/project/early-warning-signals/</link>
+      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
+      <guid>https://thomasbury.net/project/early-warning-signals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiac dynamics</title>
       <link>https://thomasbury.net/project/cardiac-dynamics/</link>
       <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
       <guid>https://thomasbury.net/project/cardiac-dynamics/</guid>
-      <description>&lt;p&gt;some text goes here.&lt;/p&gt;
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-climate modelling</title>
+      <link>https://thomasbury.net/project/socio-climate/</link>
+      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
+      <guid>https://thomasbury.net/project/socio-climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://thomasbury.net/cv/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/cv/</guid>
+      <description>&lt;p&gt;Last updated on 29 December 2022&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/thomas_bury_resume.pdf&#34; target=&#34;_blank&#34;&gt;Resumé (pdf)&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PhD&lt;/strong&gt;, Applied Mathematics, &lt;em&gt;University of Waterloo&lt;/em&gt;, 2019
+&lt;br&gt;&lt;a href=&#34;www.google.com&#34;&gt;Thesis&lt;/a&gt;: &amp;ldquo;Detecting and distinguishing transitions in ecological systems: model and data-driven approaches.&amp;rdquo;
+&lt;br&gt;Advisors: &lt;a href=&#34;https://www.math.uwaterloo.ca/~cbauch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Chris Bauch&lt;/a&gt;,
+&lt;a href=&#34;https://anand-lab-globalecochange.uoguelph.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Madhur Anand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MMATH&lt;/strong&gt;, Mathematics, &lt;em&gt;University of Cambridge&lt;/em&gt;, 2015
+&lt;br&gt;First class honours
+&lt;br&gt;Director of studies &lt;a href=&#34;https://www.queens.cam.ac.uk/professor-julia-gog-obe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Julia Gog, OBE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BA&lt;/strong&gt;, Mathematics, &lt;em&gt;University of Cambridge&lt;/em&gt;, 2014&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional-appointments&#34;&gt;Professional Appointments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Postdoctoral Fellow&lt;/strong&gt;, Department of Physiology,
+Faculty of Medicine, &lt;em&gt;McGill University&lt;/em&gt;  (2020-current)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards-and-honours&#34;&gt;Awards and Honours&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022-23, FRQNT postdoctoral research scholarship, Québec&lt;/li&gt;
+&lt;li&gt;2021-22,  CAMBAM postdoctoral fellowship, McGill University&lt;/li&gt;
+&lt;li&gt;2020-21,  CAMBAM postdoctoral fellowship, McGill University&lt;/li&gt;
+&lt;li&gt;2019, Doctoral thesis award, University of Waterloo&lt;/li&gt;
+&lt;li&gt;2017, Research dissemination award, University of Waterloo&lt;/li&gt;
+&lt;li&gt;2017, Second place at Fields Thesis Competition, Fields Institute, Toronto&lt;/li&gt;
+&lt;li&gt;2017, Finalist at 3-Minute Thesis competition, University of Waterloo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022, K. Diagne, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, M. W. Deyell, Z. Laksman, A. Shrier, G. Bub, L. Glass. Rhythms from Two Competing Periodic Sources Embedded in an Excitable Medium. &lt;em&gt;Physical Review Letters&lt;/em&gt; (in press).&lt;/li&gt;
+&lt;li&gt;2022, F. Dablander, &lt;strong&gt;T. M. Bury&lt;/strong&gt;. &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2207720119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning for Tipping Points: Preprocessing Matters&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2021, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, R. Sujith, I. Pavithran, M. Scheffer, T. Lenton, M. Anand, and C. Bauch. &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2106140118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep learning for early warning signals of tipping points&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2021, J. Menard, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, C. T. Bauch, and M. Anand. &lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When conflicts get heated, so does the planet: coupled social-climate dynamics under inequality.&lt;/a&gt; &lt;em&gt;Proceedings of the Royal Society B&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2020, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, C. Lerma, G. Bub, Z. Laksman, M. W. Deyell, L. Glass. &lt;a href=&#34;https://aip.scitation.org/doi/10.1063/5.0023987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long ECGs reveal rich and robust dynamical regimes in patients with frequent ectopy.&lt;/a&gt; &lt;em&gt;Chaos&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2020, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, C. T. Bauch, M. Anand. &lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0482&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detecting and distinguishing tipping points using spectral early warning signals.&lt;/a&gt; &lt;em&gt;Journal of the Royal Society Interface&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2019, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, C. T. Bauch, M. Anand. &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charting pathways to climate change mitigation in a coupled socio-climate model.&lt;/a&gt; &lt;em&gt;PLoS computational biology.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;2019, D. A. Pananos, &lt;strong&gt;T. M. Bury&lt;/strong&gt;, C. Wang, J. Schonfeld, S. P. Mohanty, B. Nyhan, M. Salathé, C. T. Bauch. &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1704093114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Critical dynamics in population vaccinating behavior.&lt;/a&gt; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022, &lt;strong&gt;T. M. Bury&lt;/strong&gt;. &lt;a href=&#34;https://github.com/ThomasMBury/ewstools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ewstools&lt;/em&gt;&lt;/a&gt;: A Python package for early warning signals of bifurcations in time series data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presentations&#34;&gt;Presentations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021, Deep learning for early warning signals of bifurcations, &lt;em&gt;Dynamics Days Europe&lt;/em&gt;
+(&lt;a href=&#34;https://figshare.com/articles/presentation/Presentation_Deep_learning_for_early_warning_signals_of_bifurcations/16892431/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2021, Long ECGs reveal rich and robust dynamical regimes in patients with frequent PVCs,
+&lt;em&gt;Society for Mathematical Biology Annual Meeting&lt;/em&gt; (&lt;a href=&#34;https://figshare.com/articles/presentation/Presentation_Long_ECGs_reveal_rich_and_robust_dynamical_regimes_in_patients_with_frequent_PVCs/16892593/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2021, Patterns of premature ventricular complexes in the human heart. &lt;em&gt;Department of Physiology Seminar Series, McGill University&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2020, Detecting and distinguishing bifurcations from noisy time series data. &lt;em&gt;Centre de Recherches Mathématiques&lt;/em&gt; (&lt;a href=&#34;https://figshare.com/articles/presentation/Presentation_Detecting_and_distinguishing_bifurcations_from_noisy_time_series_data/16892632/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=QGs2knhnXDM&amp;amp;ab_channel=Centrederecherchesmath%C3%A9matiques-CRM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recording&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2020, Bifurcations in the era of big data: Applications to cardiology and ecology. &lt;em&gt;Applied Mathematics Seminar Series, University of Ottawa&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2020, Fold or Flip? Distinguishing bifurcations in advance with spectral early warning signals. &lt;em&gt;Workshop on Critical Transitions in Complex Systems, Shanghai Institutes for Biological Sciences&lt;/em&gt; (&lt;a href=&#34;https://figshare.com/articles/presentation/Presentation_Fold_or_Flip_Distinguishing_bifurcations_in_advance_with_spectral_early_warning_signals/16892644/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://drive.google.com/file/d/1kp2G6q-Eu-H13JpVgUCcbezF_rZzKjJ3/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recording&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2019, Spectral early warning signals improve tipping point detection and description. &lt;em&gt;Society for Mathematical Biology Annual Meeting, Montréal&lt;/em&gt; (&lt;a href=&#34;https://figshare.com/articles/poster/Detecting_and_Distinguishing_Tipping_Points_using_Spectral_Early_Warning_Signals/16892395/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2019, Spectral early warning signals improve tipping point detection and description. &lt;em&gt;Canadian Society of Applied and Industrial Mathematics Annual Meeting, Whistler&lt;/em&gt;. (&lt;a href=&#34;https://figshare.com/articles/presentation/Presentation_Spectral_early_warning_signals_improve_tipping_point_detection_and_description/16892662/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2018, Early warning indicators of ecological tipping points. Do they predict critical transitions, or something else? &lt;em&gt;Ecological Society of America, Annual Meeting, New Orleans&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2018, Characterizing impending transitions in complex systems. &lt;em&gt;Dynamics Days US, Denver&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2017, The mathematics of tipping points. &lt;em&gt;TEDx, University of Toronto&lt;/em&gt;. (&lt;a href=&#34;https://www.youtube.com/watch?v=pfm7OqBVA6I&amp;amp;ab_channel=TEDxTalks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recording&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2017, Anticipating Critical Transitions in Socio-Ecological Systems. &lt;em&gt;Applied Mathematics, Modeling and Computational Science, International Conference, Waterloo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2017, Regime Shifts in Socio-Ecological Systems. &lt;em&gt;Mathematical Models in Ecology and Evolution, London&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;2017, Regime Shifts in Socio-Ecological Systems. &lt;em&gt;Waterloo Institute for Complexity and Innovation, Interdisciplinary Conference on Resilience in Complex Natural and Human Systems&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media-coverage-selected&#34;&gt;Media coverage (selected)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021, &lt;a href=&#34;https://www.independent.co.uk/climate-change/news/climate-tipping-points-artificial-intelligence-b1925735.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Independent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2021 &lt;a href=&#34;https://www.dailymail.co.uk/sciencetech/article-10021757/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Daily Mail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2019 &lt;a href=&#34;https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-environment-1.5170572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Broadcasting Corporation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2019 &lt;a href=&#34;https://indianexpress.com/article/lifestyle/life-style/social-interactions-can-help-slow-climate-change-study-5773829/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Indian Express&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;h4 id=&#34;courses&#34;&gt;Courses&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2021, &lt;strong&gt;Course Instructor&lt;/strong&gt;, &lt;em&gt;McGill University&lt;/em&gt;, Foundations of Quantitative Life Sciences&lt;/li&gt;
+&lt;li&gt;2018, &lt;strong&gt;Course Instructor&lt;/strong&gt;, &lt;em&gt;University of Waterloo&lt;/em&gt;, Calculus I for the Sciences&lt;/li&gt;
+&lt;li&gt;2015-18, &lt;strong&gt;Teaching assistant&lt;/strong&gt;, &lt;em&gt;University of Waterloo&lt;/em&gt;, Courses including calculus, dynamical systems, partial differential equations and stochastic processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;credentials&#34;&gt;Credentials&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2017-19, &lt;strong&gt;Certificate of University Teaching&lt;/strong&gt;, &lt;em&gt;University of Waterloo&lt;/em&gt; &lt;br&gt;
+An in-depth, selective, 2-year teaching course for PhD students. Includes multiple teaching observations, guided self-reflection and improvement, workshops and a pedagogical research project.&lt;/li&gt;
+&lt;li&gt;2015-16, &lt;strong&gt;Fundamentals of University Teaching&lt;/strong&gt;, &lt;em&gt;University of Waterloo&lt;/em&gt; &lt;br&gt;
+Includes weekly workshops on teaching fundamentals including active learning, equitable teaching, and effective delivery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;student-supervision&#34;&gt;Student supervision&lt;/h2&gt;
+&lt;h4 id=&#34;phd&#34;&gt;PhD&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2019-2022, Khady Diagne (co-advisor), &lt;em&gt;McGill University&lt;/em&gt; &lt;br&gt;
+Project: Spatio-temporal dynamics of pure parasystole in cardiac tissue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2020-2022, Glisant Plasa (co-advisor), &lt;em&gt;McGill University&lt;/em&gt; &lt;br&gt;
+Project: Reinforcement learning for discovery of reentry mechanisms in cardiac tissue&lt;/li&gt;
+&lt;li&gt;2020-2021, Alix Vanpoperinghe (advisor), &lt;em&gt;McGill University&lt;/em&gt; &lt;br&gt;
+Project: Simulation of cardiac monolayers under optogenetic control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
+&lt;h4 id=&#34;committees&#34;&gt;Committees&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2021-22, Canada Graduate Scholarship evaluation committee member, &lt;em&gt;McGill University&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2017-18, Math grad representative on the Senate Graduate and Research Council, &lt;em&gt;University of Waterloo&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;summer-schools-and-workshops&#34;&gt;Summer schools and workshops&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2021, Summer School in Nonlinear Dynamics for the Life Sciences, &lt;em&gt;CAMBAM and NSERC-CREATE, McGill University&lt;/em&gt;, &lt;strong&gt;Technical lead&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;2020, Workshop on Interactive Data Visualisation in Python, &lt;em&gt;CAMBAM-CRM, McGill University&lt;/em&gt;, &lt;strong&gt;Creator and instructor&lt;/strong&gt;, (&lt;a href=&#34;https://github.com/ThomasMBury/workshop_datavis_python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2018, A Hands-on Introduction to Mathematical Modelling, &lt;em&gt;University of Waterloo&lt;/em&gt;, &lt;strong&gt;Co-creator and instructor&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;outreach&#34;&gt;Outreach&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2020-current, Interviews with newspapers and magazines including &lt;em&gt;The Scientific American&lt;/em&gt;, &lt;em&gt;The Waterloo Region Record&lt;/em&gt;, &lt;em&gt;The McGill Tribune&lt;/em&gt; and &lt;em&gt;The Charlatan&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;2017, &lt;a href=&#34;https://www.ted.com/talks/thomas_bury_the_mathematics_of_tipping_points&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEDx speaker&lt;/a&gt;. &lt;em&gt;University of Toronto&lt;/em&gt;, Toronto, Canada.&lt;/li&gt;
+&lt;li&gt;2016-18, Workshop facilitator at primary school visits. &lt;em&gt;Let’s Talk Science&lt;/em&gt;, Waterloo, Canada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;peer-review&#34;&gt;Peer review&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Physics Review X&lt;/li&gt;
+&lt;li&gt;Ecology Letters&lt;/li&gt;
+&lt;li&gt;Proceedings of the Royal Society A&lt;/li&gt;
+&lt;li&gt;Proceedings of the Royal Society B&lt;/li&gt;
+&lt;li&gt;Journal of the Royal Society Interface&lt;/li&gt;
+&lt;li&gt;Chaos&lt;/li&gt;
+&lt;li&gt;Ecological Economics&lt;/li&gt;
+&lt;li&gt;Climatic Change&lt;/li&gt;
+&lt;li&gt;PLOS One&lt;/li&gt;
+&lt;li&gt;iScience&lt;/li&gt;
+&lt;li&gt;Journal of Theoretical Biology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;English: native&lt;/li&gt;
+&lt;li&gt;French: proficient (TEFaQ level C1 obtained in 2020)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Early warning signals for tipping points</title>
-      <link>https://thomasbury.net/project/early-warning-signals/</link>
-      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
-      <guid>https://thomasbury.net/project/early-warning-signals/</guid>
-      <description>&lt;p&gt;some text goes here.&lt;/p&gt;
-&lt;h3&gt; Relevant publications &lt;/h3&gt;
+      <title>Dashboards</title>
+      <link>https://thomasbury.net/dashboards/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/dashboards/</guid>
+      <description>&lt;p&gt;I create dashboards for research and data communication purposes, some of which are showcased here. The apps use &lt;a href=&#34;https://plotly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly Dash&lt;/a&gt; and are deployed with &lt;a href=&#34;https://railway.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Railway.app&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;visualisation-of-ecg-data-on-physionet&#34;&gt;Visualisation of ECG data on Physionet&lt;/h3&gt;
+&lt;p&gt;This app streams and plots data from the &lt;a href=&#34;https://physionet.org/content/icentia11k-continuous-ecg/1.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Icentia11k&lt;/a&gt; database on Physionet, which contains data from 11,000 patients who have undergone a Holter recording (ambulatory ECG). I have a step by step tutorial on Towards Data Science on how to create this app.
+&lt;br&gt;
+
+  &lt;i class=&#34;fa fa-right-to-bracket  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://ecg-dashboard.thomasbury.net/&#34; target=&#34;_blank&#34;&gt;Run app&lt;/a&gt;    
+
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/ThomasMBury/ecg-dashboard&#34; target=&#34;_blank&#34;&gt;Github repo&lt;/a&gt;    
+
+  &lt;i class=&#34;fab fa-medium  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://medium.com/towards-data-science/building-a-dashboard-in-plotly-dash-c748588e2920&#34; target=&#34;_blank&#34;&gt;Tutorial&lt;/a&gt;
+&lt;img src=&#34;https://thomasbury.net/uploads/dashboards/ecg-dashboard.png&#34; alt=&#34;img&#34; style=&#34;border:1.5px solid gray; padding:3px; margin:10px 0px&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;restitution-curve-analysis&#34;&gt;Restitution curve analysis&lt;/h3&gt;
+&lt;p&gt;This app simulates and plots output for a model of a periodically paced cardiac cell based on properties of its restitution curve, which the user can modify.&lt;br&gt;
+
+  &lt;i class=&#34;fa fa-right-to-bracket  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://restitution-cobweb.thomasbury.net/&#34; target=&#34;_blank&#34;&gt;Run app&lt;/a&gt;    
+
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/ThomasMBury/restitution-cobweb&#34; target=&#34;_blank&#34;&gt;Github repo&lt;/a&gt;
+&lt;img src=&#34;https://thomasbury.net/uploads/dashboards/restitution-cobweb.png&#34; alt=&#34;img&#34; style=&#34;border:1.5px solid gray; padding:3px; margin:10px 0px&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;covid-19-visualisation-and-analysis&#34;&gt;Covid-19 visualisation and analysis&lt;/h3&gt;
+&lt;p&gt;This app displays Covid-19 cases and deaths for a given country, and computes approximations for the total number of infected cases and the contact ratio. Uses the dataset from &lt;a href=&#34;https://github.com/owid/covid-19-data/tree/master/public/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our World in Data&lt;/a&gt;.&lt;br&gt;
+
+  &lt;i class=&#34;fa fa-right-to-bracket  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://dash-covid.thomasbury.net/&#34; target=&#34;_blank&#34;&gt;Run app&lt;/a&gt;    
+
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/ThomasMBury/dash_covid&#34; target=&#34;_blank&#34;&gt;Github repo&lt;/a&gt;
+&lt;img src=&#34;https://thomasbury.net/uploads/dashboards/dash-covid.png&#34; alt=&#34;img&#34; style=&#34;border:1.5px solid gray; padding:3px; margin:10px 0px&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://thomasbury.net/music/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/music/</guid>
+      <description>&lt;h3 id=&#34;covers&#34;&gt;Covers&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;400&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/468145977&amp;color=%23347aeb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;originals&#34;&gt;Originals&lt;/h3&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;400&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/468146532&amp;color=%23347aeb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://thomasbury.net/teaching/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/teaching/</guid>
+      <description>&lt;h2 id=&#34;workshop-on-interactive-data-visualisation-in-python-mcgill&#34;&gt;Workshop on interactive data visualisation in Python, McGill&lt;/h2&gt;
+&lt;p&gt;For the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Material at the &lt;a href=&#34;https://github.com/ThomasMBury/workshop_datavis_python&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;qlsc-600-resetting-and-entraining-biological-oscillators-mcgill&#34;&gt;QLSC 600, Resetting and Entraining Biological Oscillators, McGill&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/qls600/module1_outline.pdf&#34; target=&#34;_blank&#34;&gt;Course outline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bootcamp on nonlinear dynamics (&lt;a href=&#34;https://thomasbury.net/uploads/qls600/nonlinear_bootcamp.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Early warning signals for bifurcations (&lt;a href=&#34;https://thomasbury.net/uploads/qls600/ews_slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://thomasbury.net/uploads/qls600/ews_practice.ipynb.zip&#34;&gt;Jupyter notebook&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Cardiac arrhythmia (&lt;a href=&#34;https://thomasbury.net/uploads/qls600/cardiac_arrhythmia.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;math-127-calculus-i-for-the-sciences-uwat&#34;&gt;Math 127, Calculus I for the Sciences, UWat&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math127/math127_lecs.zip&#34; target=&#34;_blank&#34;&gt;Lecture notes (handwritten)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;math-117-calculus-i-for-engineering-uwat&#34;&gt;Math 117, Calculus I for Engineering, UWat&lt;/h2&gt;
+&lt;p&gt;Exercises and solutions (latex):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_1.pdf&#34; target=&#34;_blank&#34;&gt;Inequalities, Exponentials and Logarithms, Inverses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_2.pdf&#34; target=&#34;_blank&#34;&gt;Composite Functions, Piecewise Functions, Partial Fractions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_3.pdf&#34; target=&#34;_blank&#34;&gt;Trigonometric Functions, Hyperbolic Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_4.pdf&#34; target=&#34;_blank&#34;&gt;Limits and Continuity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_5.pdf&#34; target=&#34;_blank&#34;&gt;Differential Calculus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_6.pdf&#34; target=&#34;_blank&#34;&gt;Differentials, L’Hopital’s Rule, and Curve Sketching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_7.pdf&#34; target=&#34;_blank&#34;&gt;Riemann Integrals, The FTC and Integration Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_8.pdf&#34; target=&#34;_blank&#34;&gt;Further Integration Techniques and Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/math117/examples_9.pdf&#34; target=&#34;_blank&#34;&gt;Improper Integrals, Polar Coordinates and Complex Numbers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;amath-777-stochastic-processes-in-the-physical-sciences-uwat&#34;&gt;AMATH 777, Stochastic Processes in the Physical Sciences, UWat&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/amath777/extinction_gillespie.pdf&#34; target=&#34;_blank&#34;&gt;Lecture on Gillespie&#39;s algorithm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/amath777/gillespie.nb&#34; target=&#34;_blank&#34;&gt;Notebook to implement Gillespie&#39;s algorithm (Mathematica)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;teaching-pedagogy&#34;&gt;Teaching pedagogy&lt;/h2&gt;
+&lt;p&gt;I am interested in the development and implementation of active learning techniques in the classroom. Below is an article I wrote as part of the &lt;a href=&#34;https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate in University Teaching&lt;/a&gt; at the Universtiy of Waterloo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://thomasbury.net/uploads/cut/coop_learning.pdf&#34; target=&#34;_blank&#34;&gt;On cooperative learning in undergraduate mathematics courses (2018)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -77,25 +336,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thomasbury.net/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://thomasbury.net/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thomasbury.net/teaching/</guid>
-      <description>&lt;p&gt;title: Teaching
-summary: Here we describe how to add a page to your site.
-date: &amp;ldquo;2018-06-28T00:00:00Z&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?&lt;/p&gt;
-&lt;p&gt;header:
-caption: &amp;quot;&amp;quot;&lt;/p&gt;
-&lt;p&gt;image: &amp;quot;&amp;quot;&lt;/p&gt;
-&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

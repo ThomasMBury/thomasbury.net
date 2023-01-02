@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematical model | Thomas Bury</title>
+    <link>https://thomasbury.net/tag/mathematical-model/</link>
+      <atom:link href="https://thomasbury.net/tag/mathematical-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>mathematical model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 14:24:52 -0400</lastBuildDate>
+    <image>
+      <url>https://thomasbury.net/media/icon_hu2aa9bae8c0adabd8158589a40109da99_109144_512x512_fill_lanczos_center_3.png</url>
+      <title>mathematical model</title>
+      <link>https://thomasbury.net/tag/mathematical-model/</link>
+    </image>
+    
+    <item>
+      <title>Socio-climate modelling</title>
+      <link>https://thomasbury.net/project/socio-climate/</link>
+      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
+      <guid>https://thomasbury.net/project/socio-climate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
