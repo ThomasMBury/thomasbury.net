@@ -56,8 +56,8 @@ experience:
     date_start: '2021-03-31'
     date_end: '2021-12-31'
     description: |2-
-        - Simulated and analysed mathematical models for birdsong.
-        - Created figures to feature in the book "Parasitic Oscillations" by Dr. Madhur Anand, published by Penguin Random House.
+        - Consultant for mathematical modeling and analysis of birdsong.
+        - Created visualisations for the book “Parasitic Oscillations” by Dr. Madhur Anand, published by Penguin Random House.
 
   - title: Doctoral Researcher
     company: Dept. of Applied Mathematics, University of Waterloo
