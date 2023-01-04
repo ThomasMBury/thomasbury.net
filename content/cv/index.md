@@ -17,7 +17,7 @@ type: landing
 
 
 
-Last updated on 29 December 2022
+Last updated on 4 January 2023
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/thomas_bury_resume.pdf" "newtab" >}}Resumé (pdf){{< /staticref >}}
 __________
@@ -40,12 +40,13 @@ Faculty of Medicine, *McGill University*  (2020-current)
 
 ## Awards and Honours
 - 2022-23, FRQNT postdoctoral research scholarship, Québec
+- 2021, PNAS [Cozzarelli Prize](https://www.pnas.org/post/update/2021-cozzarelli-prize-recipients) finalist
 - 2021-22,  CAMBAM postdoctoral fellowship, McGill University
 - 2020-21,  CAMBAM postdoctoral fellowship, McGill University
 - 2019, Doctoral thesis award, University of Waterloo
 - 2017, Research dissemination award, University of Waterloo
 - 2017, Second place at Fields Thesis Competition, Fields Institute, Toronto
-- 2017, Finalist at 3-Minute Thesis competition, University of Waterloo
+- 2017, Finalist at [3-Minute Thesis](https://www.youtube.com/watch?v=UQ1nW9PNil8&ab_channel=uwaterloo) competition, University of Waterloo
 
 ## Publications
 - 2022, K. Diagne, **T. M. Bury**, M. W. Deyell, Z. Laksman, A. Shrier, G. Bub, L. Glass. Rhythms from Two Competing Periodic Sources Embedded in an Excitable Medium. *Physical Review Letters* (in press).
@@ -94,7 +95,7 @@ Faculty of Medicine, *McGill University*  (2020-current)
 
 #### Credentials
 - 2017-19, **Certificate of University Teaching**, *University of Waterloo* <br>
-An in-depth, selective, 2-year teaching course for PhD students. Includes multiple teaching observations, guided self-reflection and improvement, workshops and a pedagogical research project.
+An in-depth, selective, 2-year teaching course for PhD students. Includes multiple teaching observations, guided self-reflection and improvement, workshops and a pedagogical {{< staticref "uploads/cut/coop_learning.pdf" "newtab" >}}research project{{< /staticref >}}.
 - 2015-16, **Fundamentals of University Teaching**, *University of Waterloo* <br>
 Includes weekly workshops on teaching fundamentals including active learning, equitable teaching, and effective delivery.
 
@@ -138,4 +139,4 @@ Project: Simulation of cardiac monolayers under optogenetic control
 
 ## Languages
 - English: native
-- French: proficient (TEFaQ level C1 obtained in 2020)
+- French: proficient (TEFaQ {{< staticref "uploads/tefaq/bury_tefaq_results.pdf" "newtab" >}}level C1{{< /staticref >}} obtained in 2020)
