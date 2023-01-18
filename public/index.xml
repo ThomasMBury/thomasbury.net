@@ -5,7 +5,7 @@
     <link>https://thomasbury.net/</link>
       <atom:link href="https://thomasbury.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Bury</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 14:24:52 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thomasbury.net/media/icon_hu2aa9bae8c0adabd8158589a40109da99_109144_512x512_fill_lanczos_center_3.png</url>
       <title>Thomas Bury</title>
@@ -13,35 +13,11 @@
     </image>
     
     <item>
-      <title>Tipping points</title>
-      <link>https://thomasbury.net/project/early-warning-signals/</link>
-      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
-      <guid>https://thomasbury.net/project/early-warning-signals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cardiac dynamics</title>
-      <link>https://thomasbury.net/project/cardiac-dynamics/</link>
-      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
-      <guid>https://thomasbury.net/project/cardiac-dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Socio-climate modelling</title>
-      <link>https://thomasbury.net/project/socio-climate/</link>
-      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
-      <guid>https://thomasbury.net/project/socio-climate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Curriculum Vitae</title>
       <link>https://thomasbury.net/cv/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://thomasbury.net/cv/</guid>
-      <description>&lt;p&gt;Last updated on 29 December 2022&lt;/p&gt;
+      <description>&lt;p&gt;Last updated on 4 January 2023&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://thomasbury.net/uploads/thomas_bury_resume.pdf&#34; target=&#34;_blank&#34;&gt;Resumé (pdf)&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -64,12 +40,13 @@ Faculty of Medicine, &lt;em&gt;McGill University&lt;/em&gt;  (2020-current)&lt;/
 &lt;h2 id=&#34;awards-and-honours&#34;&gt;Awards and Honours&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2022-23, FRQNT postdoctoral research scholarship, Québec&lt;/li&gt;
+&lt;li&gt;2021, PNAS &lt;a href=&#34;https://www.pnas.org/post/update/2021-cozzarelli-prize-recipients&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cozzarelli Prize&lt;/a&gt; finalist&lt;/li&gt;
 &lt;li&gt;2021-22,  CAMBAM postdoctoral fellowship, McGill University&lt;/li&gt;
 &lt;li&gt;2020-21,  CAMBAM postdoctoral fellowship, McGill University&lt;/li&gt;
 &lt;li&gt;2019, Doctoral thesis award, University of Waterloo&lt;/li&gt;
 &lt;li&gt;2017, Research dissemination award, University of Waterloo&lt;/li&gt;
 &lt;li&gt;2017, Second place at Fields Thesis Competition, Fields Institute, Toronto&lt;/li&gt;
-&lt;li&gt;2017, Finalist at 3-Minute Thesis competition, University of Waterloo&lt;/li&gt;
+&lt;li&gt;2017, Finalist at &lt;a href=&#34;https://www.youtube.com/watch?v=UQ1nW9PNil8&amp;amp;ab_channel=uwaterloo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3-Minute Thesis&lt;/a&gt; competition, University of Waterloo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ul&gt;
@@ -122,7 +99,7 @@ Faculty of Medicine, &lt;em&gt;McGill University&lt;/em&gt;  (2020-current)&lt;/
 &lt;h4 id=&#34;credentials&#34;&gt;Credentials&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;2017-19, &lt;strong&gt;Certificate of University Teaching&lt;/strong&gt;, &lt;em&gt;University of Waterloo&lt;/em&gt; &lt;br&gt;
-An in-depth, selective, 2-year teaching course for PhD students. Includes multiple teaching observations, guided self-reflection and improvement, workshops and a pedagogical research project.&lt;/li&gt;
+An in-depth, selective, 2-year teaching course for PhD students. Includes multiple teaching observations, guided self-reflection and improvement, workshops and a pedagogical &lt;a href=&#34;https://thomasbury.net/uploads/cut/coop_learning.pdf&#34; target=&#34;_blank&#34;&gt;research project&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;2015-16, &lt;strong&gt;Fundamentals of University Teaching&lt;/strong&gt;, &lt;em&gt;University of Waterloo&lt;/em&gt; &lt;br&gt;
 Includes weekly workshops on teaching fundamentals including active learning, equitable teaching, and effective delivery.&lt;/li&gt;
 &lt;/ul&gt;
@@ -174,7 +151,7 @@ Project: Simulation of cardiac monolayers under optogenetic control&lt;/li&gt;
 &lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;English: native&lt;/li&gt;
-&lt;li&gt;French: proficient (TEFaQ level C1 obtained in 2020)&lt;/li&gt;
+&lt;li&gt;French: proficient (TEFaQ &lt;a href=&#34;https://thomasbury.net/uploads/tefaq/bury_tefaq_results.pdf&#34; target=&#34;_blank&#34;&gt;level C1&lt;/a&gt; obtained in 2020)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
