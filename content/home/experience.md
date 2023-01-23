@@ -30,9 +30,10 @@ experience:
     location: Montréal, Québec
     date_start: '2020-01-31'
     description: |2-
-        - Pre-processed ECG data from 12,241 patients from 6 different medical institutions using cloud resources in work partnered with cardiologists.
-        - Implemented unsupervised machine learning (k-means) and dimension reduction techniques (UMAP, t-SNE, PCA) to deduce subtypes of ventricular arrhythmia.
-        - Developed interactive dashboards in Plotly Dash to screen ECG and other health-related data, hosted on Compute Canada Cloud.
+        - Partnered with cardiologists (UBC, Cornell) and industry (Icentia inc.) to research mechanisms of cardiac arrhythmia from wearable device data.
+        - Pre-processed ~60GB of electrocardiogram data from 12k patients using cloud resources (Compute Canada).
+        - Created and deployed data dashboards (Plotly, Dash) to visualise records and derived metrics.
+        - Implemented unsupervised machine learning (k-means) and dimension reduction techniques (PCA+t-SNE) to investigate arrhythmia subtypes.
         - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum).
         - Supervised 1 graduate and 2 undergraduate students. Project trained a reinforcement learning agent in Tensorflow to generate an arrhythmia with minimal stimulus.
 
@@ -69,7 +70,7 @@ experience:
     description: |2-
         - <a href="https://uwspace.uwaterloo.ca/handle/10012/15531" target="_blank">Thesis</a>: "Detecting and distinguishing transitions in ecological systems: model and data-driven approaches".
         - Developed methodology and an open-source <a href="https://github.com/ThomasMBury/ewstools" target="_blank">Python package</a> for detecting tipping points (bifurcations) in time series data.
-        - Tested methodology with climate, ecological, geological and engineering datasets, which outperformed traditional methods.
+        - Tested methodology with climate, ecological, geological and engineering datasets, which outperformed conventional methods.
         - Published as first-author in leading journals including PNAS, Journal of the Royal Society Interface, and PLOS Comp. Biology.
         - Presented work at international conferences including TEDx, Soc. for Mathematical Biology, and Canadian Soc. of Applied and Industrial Mathematics.
 
