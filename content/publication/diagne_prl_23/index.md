@@ -27,7 +27,8 @@ links:
     url: "https://physics.aps.org/articles/v16/2"
   - name: PNAS News
     url: 'https://www.pnas.org/post/journal-club/mathematical-patterns-reveal-tell-tale-beat-broken-heart'
-
+  - name: Physics Today
+    url: 'https://physicstoday.scitation.org/doi/10.1063/PT.3.5193'
 
 
 projects: []
