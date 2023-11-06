@@ -6,7 +6,7 @@ title: Thomas Bury, PhD
 superuser: true
 
 # Role/position/tagline
-role: Applied mathematician and data scientist
+role: Applied mathematician
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,15 @@ organizations:
     url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, time series analysis, and mathematical modelling.
+bio: I am interested in machine learning and dynamical systems applied to the natural sciences.
 
 # Interests to show in About widget
 interests:
   - Machine learning
-  - Time series analysis
+  - Dynamical systems
   - Mathematical modelling
   - Responsible AI
-  - Open-source code
+  - Open source
 
 # Education to show in About widget
 education:
@@ -68,12 +68,12 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'thomas.bury@mcgill.ca'
+email: 'tombury182@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently works at the Department of Physiology, McGill University. His research uses tools from mathematics and statistics to gain insight into the dynamics of complex systems. His research spans many fields, including ecology, epidemiology, climate science and medicine. He is currently developing tools to detect and classify cardiac arrhythmia in people. Besides research, he writes on Medium for <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of <a href="/teaching">courses</a>.
+Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently works at the Department of Physiology, McGill University. His research uses tools from mathematics and artificial intelligence better understand the dynamics of complex systems arising in ecology, epidemiology, climate science and medicine. He is currently working on methods to detect and classify cardiac arrhythmia in people. Besides research, he writes on Medium for <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of <a href="/teaching">courses</a>.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/thomas_bury_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
