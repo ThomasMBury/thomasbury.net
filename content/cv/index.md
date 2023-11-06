@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Curriculum Vitae
 summary: My CV
 date: "2022-12-29T00:00:00Z"
@@ -139,4 +139,4 @@ Project: Simulation of cardiac monolayers under optogenetic control
 
 ## Languages
 - English: native
-- French: proficient (TEFaQ {{< staticref "uploads/tefaq/bury_tefaq_results.pdf" "newtab" >}}level C1{{< /staticref >}} obtained in 2020)
+- French: proficient (TEFaQ {{< staticref "uploads/tefaq/bury_tefaq_results.pdf" "newtab" >}}level C1{{< /staticref >}} obtained in 2020) -->
