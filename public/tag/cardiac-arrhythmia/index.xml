@@ -5,7 +5,7 @@
     <link>https://thomasbury.net/tag/cardiac-arrhythmia/</link>
       <atom:link href="https://thomasbury.net/tag/cardiac-arrhythmia/index.xml" rel="self" type="application/rss+xml" />
     <description>cardiac arrhythmia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 14:24:52 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thomasbury.net/media/icon_hu2aa9bae8c0adabd8158589a40109da99_109144_512x512_fill_lanczos_center_3.png</url>
       <title>cardiac arrhythmia</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Cardiac dynamics</title>
-      <link>https://thomasbury.net/project/cardiac-dynamics/</link>
-      <pubDate>Sun, 05 Jun 2022 14:24:52 -0400</pubDate>
-      <guid>https://thomasbury.net/project/cardiac-dynamics/</guid>
+      <title>Predicting discrete-time bifurcations with deep learning</title>
+      <link>https://thomasbury.net/publication/bury_natcomms_23/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://thomasbury.net/publication/bury_natcomms_23/</guid>
       <description></description>
     </item>
     

@@ -4,21 +4,15 @@
   
   
   <url>
-    <loc>https://thomasbury.net/cv/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://thomasbury.net/dashboards/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://thomasbury.net/music/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://thomasbury.net/teaching/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://thomasbury.net/publication-type/2/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/tag/bifurcation/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://thomasbury.net/tag/cardiac-arrhythmia/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://thomasbury.net/tag/deep-learning/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://thomasbury.net/publication/bury_pnas_21/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://thomasbury.net/publication/bury_natcomms_23/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/publication_types/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -32,6 +26,16 @@
   <url>
     <loc>https://thomasbury.net/tag/tipping-point/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://thomasbury.net/publication/diagne_prl_23/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/dashboards/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/music/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/teaching/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/publication/bury_pnas_21/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://thomasbury.net/publication/bury_chaos_20/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/publication/bury_interface_20/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -39,5 +43,7 @@
     <loc>https://thomasbury.net/publication/bury_plos_19/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://thomasbury.net/publication/pananos_pnas_17/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://thomasbury.net/cv/</loc><priority>0</priority></url>
   <url>
     <loc>https://thomasbury.net/categories/</loc><changefreq>weekly</changefreq></url></urlset>
