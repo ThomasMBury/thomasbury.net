@@ -21,8 +21,8 @@ interests:
   - Machine learning
   - Dynamical systems
   - Mathematical modelling
-  - Responsible AI
-  - Open source
+  - Applications of AI to healthcare
+  - Open source software
 
 # Education to show in About widget
 education:
