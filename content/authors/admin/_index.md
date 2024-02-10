@@ -14,14 +14,14 @@ organizations:
     url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in machine learning and dynamical systems applied to the natural sciences.
+bio: I am interested in the application of mathematics and artificial intelligence to the natural sciences.
 
 # Interests to show in About widget
 interests:
   - Machine learning
   - Dynamical systems
   - Mathematical modelling
-  - Applications of AI to healthcare
+  - Applications of AI to medicine
   - Open source software
 
 # Education to show in About widget
@@ -74,6 +74,6 @@ email: 'tombury182@gmail.com'
 highlight_name: true
 ---
 
-Thomas Bury is an applied mathematician, data scientist, and TEDx speaker. He currently works at the Department of Physiology, McGill University. His research uses tools from mathematics and artificial intelligence better understand the dynamics of complex systems arising in ecology, epidemiology, climate science and medicine. He is currently working on methods to detect and classify cardiac arrhythmia in people. Besides research, he writes on Medium for <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of <a href="/teaching">courses</a>.
+Thomas Bury is an applied mathematician, data scientist, and TEDx speaker, currently working in the Faculty of Medicine, McGill University. His research applies mathematics and artificial intelligence to the natural sciences, including medicine, ecology and the climate. He is currently developing methods to better predict and classify cardiac arrhythmia. Besides <a href="https://www.thomasbury.net/#publications">research</a>, he writes on Medium for <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of <a href="/teaching">courses</a>.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/thomas_bury_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
