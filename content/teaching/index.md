@@ -15,7 +15,7 @@ type: landing
 
 
 ## Workshop on interactive data visualisation in Python, McGill
-For the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Material at the {{< staticref "https://github.com/ThomasMBury/workshop_datavis_python" "newtab" >}}Github repository{{< /staticref >}}.
+A workshop I have given to the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Slides and Jupyter notebooks at the {{< staticref "https://github.com/ThomasMBury/workshop_datavis_python" "newtab" >}}Github repository{{< /staticref >}}.
 
 <br>
 
@@ -36,7 +36,7 @@ For the Centre de Recherches Mathématiques, the Centre for Applied Mathematics 
 
 ## Math 117, Calculus I for Engineering, UWat
 
-Exercises and solutions (latex):
+Exercises and solutions (LaTeX):
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_1.pdf" "newtab" >}}Inequalities, Exponentials and Logarithms, Inverses{{< /staticref >}}
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_2.pdf" "newtab" >}}Composite Functions, Piecewise Functions, Partial Fractions{{< /staticref >}}
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_3.pdf" "newtab" >}}Trigonometric Functions, Hyperbolic Functions{{< /staticref >}}
