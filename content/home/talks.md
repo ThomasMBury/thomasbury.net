@@ -21,7 +21,7 @@ design:
 
 <h2> TEDx conference </h2>
 
-I was invited to a TEDx conference at the University of Toronto, where I gave an accessible overview of tipping points and how mathematics can help us understand and detect them.
+An accessible overview of how mathematics can help us understand and predict tipping points.
 
 {{< youtube pfm7OqBVA6I >}}
 
@@ -30,7 +30,7 @@ I was invited to a TEDx conference at the University of Toronto, where I gave an
 
 <h2> Centre de recherches mathématiques </h2>
 
-A more technical presentation of my work on using deep learning to predict tipping points.
+A more technical presentation of my research on using deep learning to predict tipping points.
 
 {{< youtube QGs2knhnXDM >}}
 
@@ -40,6 +40,6 @@ A more technical presentation of my work on using deep learning to predict tippi
 
 <h2> Three-Minute Thesis, University of Waterloo </h2>
 
-A short summary of my PhD research at the finals of the Three-Minute Thesis competition.
+A 3-minute summary of my PhD thesis at the finals of the Three-Minute Thesis competition.
 
 {{< youtube UQ1nW9PNil8 >}}

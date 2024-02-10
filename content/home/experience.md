@@ -35,7 +35,8 @@ experience:
         - Created and deployed data dashboards (Plotly, Dash) to visualise records and derived metrics.
         - Implemented unsupervised machine learning (k-means) and dimension reduction techniques (PCA+t-SNE) to investigate arrhythmia subtypes.
         - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum).
-        - Supervised 1 graduate and 2 undergraduate students. Project trained a reinforcement learning agent in Tensorflow to generate an arrhythmia with minimal stimulus.
+        - Supervised 1 graduate and 2 undergraduate students. 
+# Project trained a reinforcement learning agent in Tensorflow to generate an arrhythmia with minimal stimulus.
 
   - title: Course Instructor
     company: Quantitative Life Sciences, McGill University
