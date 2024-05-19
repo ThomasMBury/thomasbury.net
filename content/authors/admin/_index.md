@@ -18,11 +18,11 @@ bio: Researcher on tipping points in complex systems
 
 # Interests to show in About widget
 interests:
-  - Machine learning
+  - Deep learning
   - Dynamical systems
   - Mathematical modelling
-  - Applications of AI to medicine
-  - Open source software
+  - Cardiology
+  - Open source
 
 # Education to show in About widget
 education:
