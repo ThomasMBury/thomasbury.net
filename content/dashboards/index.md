@@ -13,7 +13,7 @@ type: landing
 
 ---
 
-I create dashboards for research and data communication purposes, some of which are showcased here. The apps use [Plotly Dash](https://plotly.com/) and are deployed with [Railway.app](https://railway.app/). 
+I create dashboards for research and data communication purposes, some of which are presented here. The apps use [Plotly Dash](https://plotly.com/) and are deployed with [Railway.app](https://railway.app/). 
 
 ### Visualisation of ECG data on Physionet
 

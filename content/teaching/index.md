@@ -14,8 +14,8 @@ type: landing
 ---
 
 
-## Workshop on interactive data visualisation in Python, McGill
-A workshop I have given to the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Slides and Jupyter notebooks at the {{< staticref "https://github.com/ThomasMBury/workshop_datavis_python" "newtab" >}}Github repository{{< /staticref >}}.
+## Workshop on interactive data visualisation in Python
+This is a workshop I have given for various institutions including the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Slides and Jupyter notebooks are available at the {{< staticref "https://github.com/ThomasMBury/workshop_datavis_python" "newtab" >}}Github repository{{< /staticref >}}.
 
 <br>
 

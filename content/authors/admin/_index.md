@@ -14,7 +14,7 @@ organizations:
     url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the application of mathematics and artificial intelligence to the natural sciences.
+bio: Researcher on tipping points in complex systems
 
 # Interests to show in About widget
 interests:
@@ -74,6 +74,6 @@ email: 'tombury182@gmail.com'
 highlight_name: true
 ---
 
-Thomas Bury is an applied mathematician, data scientist, and TEDx speaker, currently working in the Faculty of Medicine, McGill University. His research applies mathematics and artificial intelligence to the natural sciences, including medicine, ecology and the climate. He is currently developing methods to better predict and classify cardiac arrhythmia. Besides <a href="https://www.thomasbury.net/#publications">research</a>, he writes on Medium for <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of <a href="/teaching">courses</a>.
+Thomas Bury is an applied mathematician working on tools to better understand tipping points in complex systems (see his <a href="https://www.thomasbury.net/#talks">TEDx talk</a> for an overview). He currently works in the Faculty of Medicine at McGill University where the goal is to better predict a tipping point in the human heart---a cardiac arrhythmia. This work is in collaboration with cardiologists and experimental scientists. Besides <a href="https://www.thomasbury.net/#publications">research</a>, he is a technical author for the Medium publication <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of graduate and undergraduate <a href="/teaching">courses</a>.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/thomas_bury_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}
