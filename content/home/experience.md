@@ -45,7 +45,7 @@ experience:
     description: |2-
         - Member of the <a href="https://gil-bub.lab.mcgill.ca/" target="_blank">Bub lab</a>.
         - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum).
-        - Supervise 1 graduate and 2 undergraduate students. 
+        - Co-supervised 1 graduate and 2 undergraduate students. 
 
 
   - title: Course Instructor
