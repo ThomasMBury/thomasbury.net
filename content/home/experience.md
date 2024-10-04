@@ -43,9 +43,9 @@ experience:
     location: Montréal, Québec
     date_start: '2020-01-31'
     description: |2-
-        - Member of the <a href="https://gil-bub.lab.mcgill.ca/" target="_blank">Bub lab</a>.
-        - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum).
-        - Co-supervised 1 graduate and 2 undergraduate students. 
+        - Member of the <a href="https://gil-bub.lab.mcgill.ca/" target="_blank">Bub lab</a>
+        - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum)
+        - Co-supervised 1 graduate and 2 undergraduate students
 
 
   - title: Course Instructor
@@ -56,21 +56,21 @@ experience:
     date_start: '2021-09-01'
     date_end: '2022-10-15'
     description: |2-
-        - Foundations of Quantitative Life Sciences: Nonlinear dynamics.
+        - Foundations of Quantitative Life Sciences. Module: Resetting and entraining of biological rhythms (QLSC 600D1)
         - 15-18 graduate students
 #        - Co-instructed 15 graduate students. Co-managed 1 teaching assistant.
 
 
-  - title: Research Consultant
-    company: School of Environmental Sciences, University of Guelph
-    company_url: 'https://ses.uoguelph.ca/'
-    company_logo: guelph
-    location: Guelph, Ontario
-    date_start: '2021-03-31'
-    date_end: '2021-12-31'
-    description: |2-
-        - Mathematical modeling and analysis of birdsong.
-#        - Created visualisations for the book “Parasitic Oscillations” by Dr. Madhur Anand, published by Penguin Random House.
+#   - title: Research Consultant
+#     company: School of Environmental Sciences, University of Guelph
+#     company_url: 'https://ses.uoguelph.ca/'
+#     company_logo: guelph
+#     location: Guelph, Ontario
+#     date_start: '2021-03-31'
+#     date_end: '2021-12-31'
+#     description: |2-
+#         - Mathematical modeling and analysis of birdsong
+# #        - Created visualisations for the book “Parasitic Oscillations” by Dr. Madhur Anand, published by Penguin Random House.
 
   - title: Doctoral Researcher
     company: Dept. of Applied Mathematics, University of Waterloo
@@ -95,9 +95,9 @@ experience:
     date_start: '2018-09-01'
     date_end: '2018-12-31'
     description: |2-
-        - Calculus I for the Sciences.  115 undergraduate students.
+        - Calculus I for the Sciences (MATH 127)
+        - 115 undergraduate students
 #        - Received strong student evaluations (>4.5/5 average for each teaching aspect).
-
 
   - title: Summer Research Intern
     company: DAMTP, University of Cambridge
