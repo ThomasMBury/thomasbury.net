@@ -33,7 +33,7 @@
       <link>https://thomasbury.net/dashboards/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://thomasbury.net/dashboards/</guid>
-      <description>&lt;p&gt;I create dashboards for research and data communication purposes, some of which are showcased here. The apps use &lt;a href=&#34;https://plotly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly Dash&lt;/a&gt; and are deployed with &lt;a href=&#34;https://railway.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Railway.app&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I create dashboards for research and data communication purposes, some of which are presented here. The apps use &lt;a href=&#34;https://plotly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly Dash&lt;/a&gt; and are deployed with &lt;a href=&#34;https://railway.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Railway.app&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;visualisation-of-ecg-data-on-physionet&#34;&gt;Visualisation of ECG data on Physionet&lt;/h3&gt;
 &lt;p&gt;This app streams and plots data from the &lt;a href=&#34;https://physionet.org/content/icentia11k-continuous-ecg/1.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Icentia11k&lt;/a&gt; database on Physionet, which contains data from 11,000 patients who have undergone a Holter recording (ambulatory ECG). I have a step by step tutorial on Towards Data Science on how to create this app.
 &lt;br&gt;
@@ -81,8 +81,8 @@
       <link>https://thomasbury.net/teaching/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://thomasbury.net/teaching/</guid>
-      <description>&lt;h2 id=&#34;workshop-on-interactive-data-visualisation-in-python-mcgill&#34;&gt;Workshop on interactive data visualisation in Python, McGill&lt;/h2&gt;
-&lt;p&gt;A workshop I have given to the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Slides and Jupyter notebooks at the &lt;a href=&#34;https://github.com/ThomasMBury/workshop_datavis_python&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;workshop-on-interactive-data-visualisation-in-python&#34;&gt;Workshop on interactive data visualisation in Python&lt;/h2&gt;
+&lt;p&gt;This is a workshop I have given for various institutions including the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Slides and Jupyter notebooks are available at the &lt;a href=&#34;https://github.com/ThomasMBury/workshop_datavis_python&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;qlsc-600-resetting-and-entraining-biological-oscillators-mcgill&#34;&gt;QLSC 600, Resetting and Entraining Biological Oscillators, McGill&lt;/h2&gt;
 &lt;ul&gt;

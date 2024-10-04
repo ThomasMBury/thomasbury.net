@@ -9593,3 +9593,14 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+/* Underline on hover for light mode */
+a:hover {
+  text-decoration: underline;
+  color: #005999;
+  /* Change hover color in light mode */ }
+
+.dark a:hover {
+  text-decoration: underline;
+  color: #005999;
+  /* Change hover color in light mode */ }
