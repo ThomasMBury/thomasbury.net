@@ -7,7 +7,9 @@ widget: pages
 headless: false
 
 title: Selected publications
-subtitle: ''
+# subtitle: ''
+subtitle: 'For a full list: <a href="https://scholar.google.ca/citations?user=qAp4KBYAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>'
+
 
 # Position of this section on the page
 weight: 45

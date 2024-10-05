@@ -16,15 +16,13 @@ content:
   autolink: false
 
 
-
-
   # Contact details (edit or remove options as required)
   email: thomas[dot]bury[at]mcgill[dot]ca
   address:
-    street: McGill University, 845 Sherbrooke St W
+    street: McIntyre Medical Building Room 1102, 3655 Prom. Sir William Osler
     city: Montréal
     region: Québec
-    postcode: 'H3A 0G4'
+    postcode: 'H3G 1Y6'
     country: Canada
 design:
   columns: '2'

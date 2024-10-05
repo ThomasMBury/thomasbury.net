@@ -11,6 +11,6 @@ view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
+  caption: 'for a full list'
   image: ''
 ---
