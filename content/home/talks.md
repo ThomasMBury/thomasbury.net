@@ -33,7 +33,7 @@ design:
 {{< youtube QGs2knhnXDM >}}
 <br><br><br>
 
-<h2> TEDx conference, "The Mathematics of Tipping Points" </h2>
+<h2> TEDx conference, "The Mathematics of Tipping Points", UofT </h2>
 13 September, 2017
 <!-- An accessible overview of how mathematics can help us understand and predict tipping points. -->
 {{< youtube pfm7OqBVA6I >}}

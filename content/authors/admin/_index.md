@@ -75,9 +75,9 @@ highlight_name: true
 ---
 
 I'm a postdoctoral researcher in the <a href="https://www.mcgill.ca/physiology" target="_blank">Department of Physiology</a> at <a href=" https://www.mcgill.ca/" target="_blank">McGill University</a>.
-I'm an applied mathematician with interest in using mathematics and data analysis to study diverse topics in the natural sciences.
+I'm an applied mathematician using mathematics, computation and data to study diverse topics in the natural sciences.
 Much of my research involves interdisciplinary collaboration with medical doctors, physiologists and ecologists.
-I am particulalry interested in tipping points and the development of computational tools to help us predict and understand them (my <a href="https://www.youtube.com/watch?v=pfm7OqBVA6I&ab_channel=TEDxTalks" target="_blank">TEDx talk</a> gives an overview).
+I am particularly interested in tipping points and the development of computational tools to help us predict and understand them (my <a href="https://www.youtube.com/watch?v=pfm7OqBVA6I&ab_channel=TEDxTalks" target="_blank">TEDx talk</a> gives an overview).
 Please see my research and publication sections for more information.
 
 I received my PhD in applied mathematics at the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a> where I worked with <a href="https://www.math.uwaterloo.ca/~cbauch/" target="_blank">Chris Bauch</a> and <a href="https://anand-lab-globalecochange.uoguelph.ca/" target="_blank">Madhur Anand</a>.

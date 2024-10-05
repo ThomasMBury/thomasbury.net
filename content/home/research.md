@@ -24,7 +24,7 @@ design:
 <br>
 {{< figure src="uploads/images/fig_critical_transition.png" width="80%" >}}
 
-A bifurcation marks a sudden qualitivate change in a dynamical system as a parameter crosses a threshold--also referred to as a tipping point or a critical transition. They correspond to phenomena such as the onset of an epidemic, a cardiac arrhythmia, and the collapse of an ecosystem. When a system is near to a bifurcation, there are universal properties of bifurcations that can emerge when sufficient data is collected. One example is critical slowing down (shown above), where the recovery rate decreases close to the bifurcation. I am interested in the developement of computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
+A bifurcation marks a sudden qualitative change in a dynamical system as a parameter crosses a threshold--also referred to as a tipping point or a critical transition. They correspond to phenomena such as the onset of an epidemic, a cardiac arrhythmia, and the collapse of an ecosystem. When a system is near to a bifurcation, there are universal properties of bifurcations that can emerge when sufficient data is collected. One example is critical slowing down (shown above), where the recovery rate decreases close to the bifurcation. I am interested in the development of computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
 
 <b>Relevant work:</b>
 
@@ -83,7 +83,7 @@ Gif of spiral wave
 
 <br><br> -->
 
-<h2> Mechanistic modelling of human and natural systems </h2>
+<h2> Mechanistic modelling of biological systems </h2>
 <br>
 
 {{< figure src="uploads/images/fig_model_climate.png" width="70%" >}}
@@ -91,7 +91,7 @@ Gif of spiral wave
 <!-- <img src="uploads/images/fig_model_climate.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/> -->
 
 
-Mathematical models can built for a biological system based on mechanistic principles. The dynamics of the model can then be analysed to gain insights into the original system. I have extended models in epidemiology and Earth System science to incorporate human behaviour, in order to study the coupled dynamics of human behaviour with vaccine scares and climate change, respectively.
+Mathematical models can be built for a biological system based on mechanistic principles. We can then analyse the dynamics of the model (e.g. equilibria, stability, orbits) to gain insights into the biology. I am broadly interested in the application of models to systems in ecology, epidemiology, physiology and Earth System science. A particular aspect I have studied is how human group behaviour interplays with these systems. For example, I extended a simple Earth system model to include dynamics of human behaviour to study how factors such as social norms and rates of social learning affect climate change trajectories.
 
 <b>Relevant work:</b>
 
@@ -102,8 +102,4 @@ Mathematical models can built for a biological system based on mechanistic princ
 -   Pananos, A. D., **Bury, T. M.**, Wang, C., Schonfeld, J., Mohanty, S. P., Nyhan, B., ... & Bauch, C. T. (2017). <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1704093114" target="_blank">Critical dynamics in population vaccinating behavior.</a> *Proceedings of the National Academy of Sciences*, 114(52), 13762-13767.
 
 </div>
-
-
-
-
 
