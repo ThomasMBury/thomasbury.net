@@ -44,7 +44,7 @@ experience:
     date_start: '2020-01-31'
     description: |2-
         - Member of the <a href="https://gil-bub.lab.mcgill.ca/" target="_blank">Bub lab</a>
-        - Awarded a FRQNT Postdoctoral Research Scholarship ($45k per annum)
+        - Recipient of a FRQNT Postdoctoral Research <a href="https://frq.gouv.qc.ca/en/program/postdoctoral-research-scholarship-b3x-2022-2023/" target="_blank">Scholarship</a>
         - Co-supervised 1 graduate and 2 undergraduate students
 
 
