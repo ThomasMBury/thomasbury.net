@@ -31,10 +31,10 @@ education:
       institution: University of Waterloo, Canada
       year: 2020
     - course: MMath in Mathematics and Theoretical Physics
-      institution: University of Cambridge, UK
+      institution: University of Cambridge, United Kingdom
       year: 2015
     - course: BA in Mathematics
-      institution: University of Cambridge, UK
+      institution: University of Cambridge, United Kingdom
       year: 2014
 
 # Social/Academic Networking
@@ -80,7 +80,7 @@ Much of my research involves interdisciplinary collaboration with medical doctor
 I am particularly interested in tipping points and the development of computational tools to help us predict and understand them (my <a href="https://www.youtube.com/watch?v=pfm7OqBVA6I&ab_channel=TEDxTalks" target="_blank">TEDx talk</a> gives an overview).
 Please see my research and publication sections for more information.
 
-I received my PhD in applied mathematics at the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a> where I worked with <a href="https://www.math.uwaterloo.ca/~cbauch/" target="_blank">Chris Bauch</a> and <a href="https://anand-lab-globalecochange.uoguelph.ca/" target="_blank">Madhur Anand</a>.
+I received my PhD in applied mathematics at the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a> where I worked with <a href="https://www.math.uwaterloo.ca/~cbauch/" target="_blank">Chris Bauch</a> and <a href="https://anand-lab-globalecochange.uoguelph.ca/" target="_blank">Madhur Anand</a>. I received my Bachelor's and Master's degrees in mathematics from the <a href=https://www.cam.ac.uk/ target="_blank">University of Cambridge</a>.
 
 <!-- He currently works in the Faculty of Medicine at McGill University where the goal is to better predict a tipping point in the human heart---a cardiac arrhythmia. This work is in collaboration with cardiologists and experimental scientists. Besides <a href="https://www.thomasbury.net/#publications">research</a>, he is a technical author for the Medium publication <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of graduate and undergraduate <a href="/teaching">courses</a>. -->
 

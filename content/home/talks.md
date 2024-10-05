@@ -26,7 +26,7 @@ design:
 </div>
 <br><br><br>
 
-<h2> Centre de recherches mathématiques (CRM), Montréal </h2>
+<h2> Centre de Recherches Mathématiques (CRM), Montréal </h2>
 11 May, 2020
 <!-- Detecting and distinguishinig bifurcations from noisy time series data. -->
 <!-- <br><br> -->
