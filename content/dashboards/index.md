@@ -13,7 +13,7 @@ type: landing
 
 ---
 
-I make dashboards in [Plotly Dash](https://plotly.com/) to explore datasets and simulate models interactively, in a way that can be shared with collaborators. My dashboards that are publicly available are listed below.
+I make dashboards in [Plotly Dash](https://plotly.com/) to explore datasets and simulate models interactively, in a way that can be shared with collaborators. My publicly available dashboards are listed below.
 
 ### Visualisation of ECG data on Physionet
 
