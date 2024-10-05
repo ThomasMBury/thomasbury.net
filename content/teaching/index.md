@@ -14,12 +14,14 @@ type: landing
 ---
 
 
-## Workshop on interactive data visualisation in Python
-This is a workshop I have given for various institutions including the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University. Slides and Jupyter notebooks are available at the {{< staticref "https://github.com/ThomasMBury/workshop_datavis_python" "newtab" >}}Github repository{{< /staticref >}}.
+## Workshop: Interactive data visualisation in Python 🐍
+- {{< staticref "https://github.com/ThomasMBury/workshop_datavis_python" "newtab" >}}Github repository{{< /staticref >}}
+- Introduces attendees to the <a href="https://plotly.com/python/" target="_blank">Plotly</a> library in Python that enables quick interactive data visualisations
+- Includes 4 Jupyter notebooks and requires about 5 hours
+- Originally designed for the <a href="http://www.fields.utoronto.ca/activities/20-21/cmm-seminar" target="_blank">Centre for Mathematical Medicine</a> at the <a href="http://www.fields.utoronto.ca/" target="_blank">Fields Institute</a> in Toronto
+<br><br>
 
-<br>
-
- ## QLSC 600, Resetting and Entraining Biological Oscillators, McGill
+ ## QLSC 600D1, Resetting and Entraining Biological Oscillators, McGill
  - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/qls600/module1_outline.pdf" "newtab" >}}Course outline{{< /staticref >}}
  - Bootcamp on nonlinear dynamics ({{< staticref "uploads/qls600/nonlinear_bootcamp.pdf" "newtab" >}}slides{{< /staticref >}})
  - Early warning signals for bifurcations ({{< staticref "uploads/qls600/ews_slides.pdf" "newtab" >}}slides{{< /staticref >}}, {{< staticref "uploads/qls600/ews_practice.ipynb.zip">}}Jupyter notebook{{< /staticref >}})
@@ -59,7 +61,7 @@ Exercises and solutions (LaTeX):
 <br>
 
 ## Teaching pedagogy
-I am interested in the development and implementation of active learning techniques in the classroom. Below is an article I wrote as part of the [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching) at the Universtiy of Waterloo.
+I am interested in the development and implementation of cooperative learning techniques in the classroom. Below is an article I wrote as part of the [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching) at the Universtiy of Waterloo.
  - {{< icon name="download" pack="fas" >}}{{< staticref "uploads/cut/coop_learning.pdf" "newtab" >}}On cooperative learning in undergraduate mathematics courses (2018){{< /staticref >}}
 
 
