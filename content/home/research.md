@@ -76,12 +76,21 @@ Current research questions:
 <br><br>
 
 
-<!-- <h2> Onset of spiral waves in excitable media </h2>
-<br>
+<h2> Onset of spiral waves in excitable systems </h2>
+<div class="figure-row">
+  <figure>
+    <img src="uploads/images/monolayer_regular.gif" alt="Monolayer 1">
+  </figure>
+  <figure>
+    <img src="uploads/images/monolayer_spiral.gif" alt="Monolayer 2">
+  </figure>
+</div>
 
-Gif of spiral wave
+Excitable systems exhibit various types of dynamics. They can be at rest, propagate planar waves following a stimulus (left), propagate self-sustaining spiral waves (right), or show more complicated spatio-temporal behaviour. Spiral waves in the human heart are responsible for ventricular tachycardia---a dangerous cardiac arrhythmia. I am interested in how excitable systems can transition into spiral wave dynamics. To study this, I am combining mathematical models with reinforcement learning---a branch of machine learning designed to discover sequential actions that achieve a pre-defined task. 
 
-<br><br> -->
+This work is in collaboration with physiologists in the <a href="https://gil-bub.lab.mcgill.ca/">Bub lab</a>, who are conducting experiments with spiral waves in real cardiac tissue. Videos show motion transients from thin sheets of mouse cardiac tissue.
+
+<br><br>
 
 <h2> Mechanistic modelling of biological systems </h2>
 <br>
