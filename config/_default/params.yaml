@@ -42,8 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Thomas Bury. Published using the <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank">Hugo Academic</a> template.
-'
+    notice: '© {year} Thomas Bury. Published using the <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank">Hugo Academic</a> template.'
     license:
       enable: false
       allow_derivatives: false

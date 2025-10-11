@@ -1,30 +1,29 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 45
-
 title: Research
+summary: Research interests
+date: "2022-12-29T00:00:00Z"
+show_date: false
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
 
-page_type: publication
+type: landing
 
 design:
   # Choose a view for the listings:
   view: compact
   columns: '3'
 
-active: false
+
+page_type: publication
+
 ---
 
-
 <h2> Early warning signals for bifurcations </h2>
-<br>
-{{< figure src="uploads/images/fig_critical_transition.png" width="80%" >}}
+<!-- <br> -->
+<!-- {{< figure src="uploads/images/fig_critical_transition.png" width="80%" >}} -->
+<img src="/uploads/images/fig_critical_transition.png" alt="Critical transition figure" style="width:100%;">
 
 A bifurcation marks a sudden qualitative change in a dynamical system as a parameter crosses a threshold--also referred to as a tipping point or a critical transition. They correspond to phenomena such as the onset of an epidemic, a cardiac arrhythmia, and the collapse of an ecosystem. When a system is near to a bifurcation, there are universal properties of bifurcations that can emerge when sufficient data is collected. One example is critical slowing down (shown above), where the recovery rate decreases close to the bifurcation. I am interested in the development of computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
 
@@ -55,9 +54,10 @@ A bifurcation marks a sudden qualitative change in a dynamical system as a param
 
 
 <h2> Nonlinear dynamics of cardiac arrhythmia </h2>
-<br>
-
-{{< figure src="uploads/images/fig_ecg_physionet.png" width="80%" >}}
+<!-- <br> -->
+<!-- {{< figure src="uploads/images/fig_ecg_physionet.png" width="80%" >}} -->
+<!-- ![ECG figure](/uploads/images/fig_ecg_physionet.png){ width=80% } -->
+<img src="/uploads/images/fig_ecg_physionet.png" alt="ECG figure" style="width:100;">
 
 The human heart beats around 100,000 times a day. A healthy heartbeat is the result of electrical propagation that travels through the heart, resulting in contraction of the cardiac tissue and pumping of blood to the body. A cardiac arrhythmia occurs when this propagation is disrupted in some way. Wearable device technology has reached the point where we can monitor the electrical activity of our hearts for extended periods of time, amassing a wealth of data. I am interested in using mathematical models and machine learning to better understand and predict the dynamics of the hearts in patients who have cardiac arrhythmia. This work is in collaboration with cardiologists at the University of British Columbia and Weill Cornell Medicine and experimental physiologists at McGill University.
 
@@ -81,10 +81,10 @@ Current research questions:
 <h2> Onset of spiral waves in excitable systems </h2>
 <div class="figure-row">
   <figure>
-    <img src="uploads/images/monolayer_regular.gif" alt="Monolayer 1">
+    <img src="/uploads/images/monolayer_regular.gif" alt="Monolayer 1">
   </figure>
   <figure>
-    <img src="uploads/images/monolayer_spiral.gif" alt="Monolayer 2">
+    <img src="/uploads/images/monolayer_spiral.gif" alt="Monolayer 2">
   </figure>
 </div>
 
@@ -95,9 +95,7 @@ This work is in collaboration with physiologists in the <a href="https://gil-bub
 <br><br>
 
 <h2> Mechanistic modelling of biological systems </h2>
-<br>
-
-{{< figure src="uploads/images/fig_model_climate.png" width="70%" >}}
+<img src="/uploads/images/fig_model_climate.png" alt="Climate figure" style="width:100;">
 
 <!-- <img src="uploads/images/fig_model_climate.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/> -->
 

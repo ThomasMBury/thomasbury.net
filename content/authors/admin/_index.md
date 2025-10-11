@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Thomas Bury, PhD
+title: Dr. Thomas Bury
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Applied mathematician
+role: Assistant Professor, Dept. of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: McGill University
+  - name: University of California, Riverside
     url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher in mathematical biology
+bio: Specializes in nonlinear dynamics and machine learning applied to the natural sciences.
 
 # Interests to show in About widget
 interests:
@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ThomasMBury
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/ThomasMBury
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=qAp4KBYAAAAJ&hl=en&oi=ao
