@@ -8,7 +8,7 @@ type: page
 **Email:** tbury[at]ucr[dot]edu
 
 **Address:**  
-Department of Mathematics
-UC Riverside,
-Riverside, CA 92521
-United States
+Department of Mathematics,  
+UC Riverside,   
+Riverside, CA 92521,    
+United States   
