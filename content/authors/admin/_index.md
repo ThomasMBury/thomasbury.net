@@ -11,7 +11,7 @@ role: Assistant Professor, Dept. of Mathematics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Riverside
-    url: https://www.mcgill.ca/
+    url: https://mathdept.ucr.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Specializes in nonlinear dynamics and machine learning applied to the natural sciences.
@@ -74,13 +74,19 @@ email: 'tombury182@gmail.com'
 highlight_name: true
 ---
 
-I'm a postdoctoral researcher in the <a href="https://www.mcgill.ca/physiology" target="_blank">Department of Physiology</a> at <a href=" https://www.mcgill.ca/" target="_blank">McGill University</a>.
-I'm an applied mathematician using mathematics, computation and data to study diverse topics in the natural sciences.
+<!-- I'm a postdoctoral researcher in the <a href="https://www.mcgill.ca/physiology" target="_blank">Department of Physiology</a> at <a href=" https://www.mcgill.ca/" target="_blank">McGill University</a>. -->
+
+I'm an assistant professor in the <a href="https://mathdept.ucr.edu/" target="_blank">Department of Mathematics</a> at the <a href="https://ucr.edu" target="_blank">University of California, Riverside</a>.
+
+My work lies at the intersection of nonlinear dynamics, data science, and machine learning. I develop mathematical and computational methods to better understand complex systems, with applications to cardiology, and ecology and the climate. A central theme of my research is the study of tipping points and early warning signals in dynamical systems, and the design of tools that translate mathematical insight into practical scientific applications (<a href="https://www.youtube.com/watch?v=pfm7OqBVA6I&ab_channel=TEDxTalks" target="_blank">TEDx talk</a>).
+
+
+<!-- I'm an applied mathematician specializing in nonlinear dynamics and machine learning.
 Much of my research involves interdisciplinary collaboration with medical doctors, physiologists and ecologists.
 I am particularly interested in tipping points and the development of computational tools to help us predict and understand them (my <a href="https://www.youtube.com/watch?v=pfm7OqBVA6I&ab_channel=TEDxTalks" target="_blank">TEDx talk</a> gives an overview).
-Please see my research and publication sections for more information.
+Please see my research and publication sections for more information. -->
 
-I received my PhD in applied mathematics at the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a> where I worked with <a href="https://www.math.uwaterloo.ca/~cbauch/" target="_blank">Chris Bauch</a> and <a href="https://anand-lab-globalecochange.uoguelph.ca/" target="_blank">Madhur Anand</a>. I received my Bachelor's and Master's degrees in mathematics from the <a href=https://www.cam.ac.uk/ target="_blank">University of Cambridge</a>.
+<!-- I received my PhD in applied mathematics at the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a> where I worked with <a href="https://www.math.uwaterloo.ca/~cbauch/" target="_blank">Chris Bauch</a> and <a href="https://anand-lab-globalecochange.uoguelph.ca/" target="_blank">Madhur Anand</a>. I received my Bachelor's and Master's degrees in mathematics from the <a href=https://www.cam.ac.uk/ target="_blank">University of Cambridge</a>. -->
 
 <!-- He currently works in the Faculty of Medicine at McGill University where the goal is to better predict a tipping point in the human heart---a cardiac arrhythmia. This work is in collaboration with cardiologists and experimental scientists. Besides <a href="https://www.thomasbury.net/#publications">research</a>, he is a technical author for the Medium publication <a href="https://medium.com/@thomasbury" target="_blank">Towards Data Science</a> and teaches a range of graduate and undergraduate <a href="/teaching">courses</a>. -->
 

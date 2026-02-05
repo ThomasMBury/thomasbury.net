@@ -20,12 +20,30 @@ page_type: publication
 
 ---
 
+
+
 <h2> Early warning signals for bifurcations </h2>
 <!-- <br> -->
 <!-- {{< figure src="uploads/images/fig_critical_transition.png" width="80%" >}} -->
 <img src="/uploads/images/fig_critical_transition.png" alt="Critical transition figure" style="width:100%;">
 
-A bifurcation marks a sudden qualitative change in a dynamical system as a parameter crosses a threshold--also referred to as a tipping point or a critical transition. They correspond to phenomena such as the onset of an epidemic, a cardiac arrhythmia, and the collapse of an ecosystem. When a system is near to a bifurcation, there are universal properties of bifurcations that can emerge when sufficient data is collected. One example is critical slowing down (shown above), where the recovery rate decreases close to the bifurcation. I am interested in the development of computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
+<!-- My research explores sudden qualitative changes in dynamical systems, also known as tipping points or bifurcations. These occur in many contexts, from epidemics and cardiac arrhythmias to ecological collapse.
+
+When a system approaches a bifurcation, it exhibits universal properties. One example is critical slowing down, where the recovery rate decreases near the transition (shown above).
+
+I develop computational tools combining dynamical systems theory and machine learning to help predict and understand these transitions, with applications across biology and ecology.
+ -->
+
+<div style="font-size: 18px; line-height: 1.5;">
+
+A bifurcation marks a sudden qualitative change in a dynamical system as a parameter crosses a threshold--also referred to as a tipping point or a critical transition. They correspond to phenomena such as the onset of an epidemic, a cardiac arrhythmia, and the collapse of an ecosystem. 
+
+When a system is near to a bifurcation, there are universal properties of bifurcations that can emerge when sufficient data is collected. One example is critical slowing down (shown above), where the recovery rate decreases close to the bifurcation. 
+
+I am interested in the development of computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
+
+</div>
+<br>
 
 <b>Relevant work:</b>
 
