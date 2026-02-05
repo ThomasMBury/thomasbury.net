@@ -19,13 +19,13 @@ content:
 
 
   # Contact details (edit or remove options as required)
-  email: thomas[dot]bury[at]mcgill[dot]ca
+  email: tbury[at]ucr[dot]ca
   address:
-    street: McIntyre Medical Building Room 1102, 3655 Prom. Sir William Osler
-    city: Montréal
-    region: Québec
-    postcode: 'H3G 1Y6'
-    country: Canada
+    street: 900 University Ave.
+    city: Riverside
+    region: CA
+    postcode: 92521
+    country: United States
 design:
   columns: '2'
 
