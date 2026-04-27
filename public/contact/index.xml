@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact | Thomas Bury</title>
-    <link>https://thomasbury.net/contact/</link>
-      <atom:link href="https://thomasbury.net/contact/index.xml" rel="self" type="application/rss+xml" />
+    <title>Contact | Bury Group</title>
+    <link>http://localhost:1313/contact/</link>
+      <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://thomasbury.net/media/icon_hu2aa9bae8c0adabd8158589a40109da99_109144_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_62528229a66f2609.png</url>
       <title>Contact</title>
-      <link>https://thomasbury.net/contact/</link>
+      <link>http://localhost:1313/contact/</link>
     </image>
     
   </channel>

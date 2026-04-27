@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Bury Group</title>
+    <link>http://localhost:1313/news/</link>
+      <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_62528229a66f2609.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+    </image>
+    
+    <item>
+      <title>New paper accepted in [Journal Name]</title>
+      <link>http://localhost:1313/news/paper-accepted-example/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/paper-accepted-example/</guid>
+      <description>&lt;p&gt;Our paper, &lt;em&gt;[Paper Title]&lt;/em&gt;, has been accepted for publication in &lt;em&gt;[Journal Name]&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief summary of the paper&amp;rsquo;s contribution and findings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author 1, Author 2, &lt;strong&gt;Thomas M. Bury&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The paper is available at [link to paper].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bury Research Group launches at UC Riverside</title>
+      <link>http://localhost:1313/news/lab-launch/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/lab-launch/</guid>
+      <description>&lt;p&gt;We are excited to officially launch the Bury Research Group in the &lt;a href=&#34;https://mathdept.ucr.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics&lt;/a&gt; at the University of California, Riverside.&lt;/p&gt;
+&lt;p&gt;Our group works at the intersection of nonlinear dynamics, data science, and machine learning, with a focus on tipping points and early warning signals in complex systems. Applications span cardiology, ecology, and climate science.&lt;/p&gt;
+&lt;p&gt;We are actively recruiting motivated PhD students and postdocs — see the &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt; page if you are interested in joining.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

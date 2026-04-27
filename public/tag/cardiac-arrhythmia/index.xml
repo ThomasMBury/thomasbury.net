@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cardiac arrhythmia | Thomas Bury</title>
-    <link>https://thomasbury.net/tag/cardiac-arrhythmia/</link>
-      <atom:link href="https://thomasbury.net/tag/cardiac-arrhythmia/index.xml" rel="self" type="application/rss+xml" />
-    <description>cardiac arrhythmia</description>
+    <title>Cardiac Arrhythmia | Bury Group</title>
+    <link>http://localhost:1313/tag/cardiac-arrhythmia/</link>
+      <atom:link href="http://localhost:1313/tag/cardiac-arrhythmia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cardiac Arrhythmia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thomasbury.net/media/icon_hu2aa9bae8c0adabd8158589a40109da99_109144_512x512_fill_lanczos_center_3.png</url>
-      <title>cardiac arrhythmia</title>
-      <link>https://thomasbury.net/tag/cardiac-arrhythmia/</link>
+      <url>http://localhost:1313/media/icon_hu_62528229a66f2609.png</url>
+      <title>Cardiac Arrhythmia</title>
+      <link>http://localhost:1313/tag/cardiac-arrhythmia/</link>
     </image>
     
     <item>
       <title>Predicting discrete-time bifurcations with deep learning</title>
-      <link>https://thomasbury.net/publications/bury_natcomms_23/</link>
+      <link>http://localhost:1313/publications/bury_natcomms_23/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://thomasbury.net/publications/bury_natcomms_23/</guid>
+      <guid>http://localhost:1313/publications/bury_natcomms_23/</guid>
       <description></description>
     </item>
     
