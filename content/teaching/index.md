@@ -62,7 +62,7 @@ Exercises and solutions (LaTeX):
 <br>
 
 ## Teaching pedagogy
-I am interested in the development and implementation of cooperative learning techniques in the classroom. Below is an article I wrote as part of the [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching) at the Universtiy of Waterloo.
+We are interested in the development and implementation of cooperative learning techniques in the classroom. Below is an article written as part of the [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching) at the Universtiy of Waterloo.
  - {{< icon name="download" pack="fas" >}}{{< staticref "uploads/cut/coop_learning.pdf" "newtab" >}}On cooperative learning in undergraduate mathematics courses (2018){{< /staticref >}}
 
 

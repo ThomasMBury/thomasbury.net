@@ -35,7 +35,6 @@ projects: []
 publishDate: '2023-01-11T16:03:36.916915Z'
 publication_types:
 - '2'
-abstract: ''
 publication: '*Physical Review Letters*'
 share: false
 

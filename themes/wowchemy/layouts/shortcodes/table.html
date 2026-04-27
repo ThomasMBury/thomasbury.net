@@ -8,10 +8,13 @@
 {{ $caption := .Get "caption" }}
 
 {{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-  {{ $src = path.Join  "content" $.Page.File.Dir $src }}
+{{ $rows := slice }}
+{{ if $is_remote }}
+  {{ $rows = resources.GetRemote $src | transform.Unmarshal (dict "delimiter" $delimiter) }}
+{{ else }}
+  {{ $src = path.Join "content" $.Page.File.Dir $src }}
+  {{ $rows = resources.Get $src | transform.Unmarshal (dict "delimiter" $delimiter) }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
 
 <table class="table">
   {{ if $useHeaderRow }}

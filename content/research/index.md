@@ -40,7 +40,7 @@ A bifurcation marks a sudden qualitative change in a dynamical system as a param
 
 When a system is near to a bifurcation, there are universal properties of bifurcations that can emerge when sufficient data is collected. One example is critical slowing down (shown above), where the recovery rate decreases close to the bifurcation. 
 
-I am interested in the development of computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
+We develop computational tools based on the theory of dynamical systems and machine learning to help predict the onset of a bifurcation in various natural systems.
 
 </div>
 <br>
@@ -77,7 +77,7 @@ I am interested in the development of computational tools based on the theory of
 <!-- ![ECG figure](/uploads/images/fig_ecg_physionet.png){ width=80% } -->
 <img src="/uploads/images/fig_ecg_physionet.png" alt="ECG figure" style="width:100;">
 
-The human heart beats around 100,000 times a day. A healthy heartbeat is the result of electrical propagation that travels through the heart, resulting in contraction of the cardiac tissue and pumping of blood to the body. A cardiac arrhythmia occurs when this propagation is disrupted in some way. Wearable device technology has reached the point where we can monitor the electrical activity of our hearts for extended periods of time, amassing a wealth of data. I am interested in using mathematical models and machine learning to better understand and predict the dynamics of the hearts in patients who have cardiac arrhythmia. This work is in collaboration with cardiologists at the University of British Columbia and Weill Cornell Medicine and experimental physiologists at McGill University.
+The human heart beats around 100,000 times a day. A healthy heartbeat is the result of electrical propagation that travels through the heart, resulting in contraction of the cardiac tissue and pumping of blood to the body. A cardiac arrhythmia occurs when this propagation is disrupted in some way. Wearable device technology has reached the point where we can monitor the electrical activity of our hearts for extended periods of time, amassing a wealth of data. We use mathematical models and machine learning to better understand and predict the dynamics of the hearts in patients who have cardiac arrhythmia, in collaboration with cardiologists at the University of British Columbia and Weill Cornell Medicine and experimental physiologists at McGill University.
 
 <b>Relevant work:</b>
 
@@ -106,27 +106,8 @@ Current research questions:
   </figure>
 </div>
 
-Excitable systems exhibit various types of dynamics. They can be at rest, propagate planar waves following a stimulus (left), propagate self-sustaining spiral waves (right), or show more complicated spatio-temporal behaviour. Spiral waves in the human heart are responsible for ventricular tachycardia---a dangerous cardiac arrhythmia. I am interested in how excitable systems can transition into spiral wave dynamics. To study this, I am combining mathematical models with reinforcement learning---a branch of machine learning designed to discover sequential actions that achieve a pre-defined task. 
+Excitable systems exhibit various types of dynamics. They can be at rest, propagate planar waves following a stimulus (left), propagate self-sustaining spiral waves (right), or show more complicated spatio-temporal behaviour. Spiral waves in the human heart are responsible for ventricular tachycardia---a dangerous cardiac arrhythmia. We study how excitable systems can transition into spiral wave dynamics, combining mathematical models with reinforcement learning---a branch of machine learning designed to discover sequential actions that achieve a pre-defined task. 
 
 This work is in collaboration with physiologists in the <a href="https://gil-bub.lab.mcgill.ca/">Bub lab</a>, who are conducting experiments with spiral waves in real cardiac tissue. Videos show motion transients from thin sheets of mouse cardiac tissue.
 
-<br><br>
-
-<h2> Mechanistic modelling of biological systems </h2>
-<img src="/uploads/images/fig_model_climate.png" alt="Climate figure" style="width:100;">
-
-<!-- <img src="uploads/images/fig_model_climate.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/> -->
-
-
-Mathematical models can be built for a biological system based on mechanistic principles. We can then analyse the dynamics of the model (e.g. equilibria, stability, orbits) to gain insights into the biology. I am broadly interested in the application of models to systems in ecology, epidemiology, physiology and Earth System science. A particular aspect I have studied is how human group behaviour interplays with these systems. For example, I extended a simple Earth system model to include dynamics of human behaviour to study how factors such as social norms and rates of social learning affect climate change trajectories.
-
-<b>Relevant work:</b>
-
-<div style="font-size: 16px; line-height: 1.5;">
-
-- **Bury, T. M.**, Bauch, C. T., & Anand, M. (2019). <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007000" target="_blank">Charting pathways to climate change mitigation in a coupled socio-climate model</a>. *PLoS computational biology*, 15(6), e1007000.
-
--   Pananos, A. D., **Bury, T. M.**, Wang, C., Schonfeld, J., Mohanty, S. P., Nyhan, B., ... & Bauch, C. T. (2017). <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1704093114" target="_blank">Critical dynamics in population vaccinating behavior.</a> *Proceedings of the National Academy of Sciences*, 114(52), 13762-13767.
-
-</div>
 
