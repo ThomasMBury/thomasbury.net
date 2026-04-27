@@ -23,47 +23,47 @@ type: landing
 <br><br>
 
  ## QLSC 600D1, Resetting and Entraining Biological Oscillators, McGill
- - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/qls600/module1_outline.pdf" "newtab" >}}Course outline{{< /staticref >}}
- - Bootcamp on nonlinear dynamics ({{< staticref "uploads/qls600/nonlinear_bootcamp.pdf" "newtab" >}}slides{{< /staticref >}})
- - Early warning signals for bifurcations ({{< staticref "uploads/qls600/ews_slides.pdf" "newtab" >}}slides{{< /staticref >}}, {{< staticref "uploads/qls600/ews_practice.ipynb.zip">}}Jupyter notebook{{< /staticref >}})
- - Cardiac arrhythmia ({{< staticref "uploads/qls600/cardiac_arrhythmia.pdf" "newtab" >}}slides{{< /staticref >}})
+ - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/mcgill/qls600/module1_outline.pdf" "newtab" >}}Course outline{{< /staticref >}}
+ - Bootcamp on nonlinear dynamics ({{< staticref "uploads/teaching/mcgill/qls600/nonlinear_bootcamp.pdf" "newtab" >}}slides{{< /staticref >}})
+ - Early warning signals for bifurcations ({{< staticref "uploads/teaching/mcgill/qls600/ews_slides.pdf" "newtab" >}}slides{{< /staticref >}}, {{< staticref "uploads/teaching/mcgill/qls600/ews_practice.ipynb.zip">}}Jupyter notebook{{< /staticref >}})
+ - Cardiac arrhythmia ({{< staticref "uploads/teaching/mcgill/qls600/cardiac_arrhythmia.pdf" "newtab" >}}slides{{< /staticref >}})
 
 
 <br>
 
  ## Math 127, Calculus I for the Sciences, UWat
 
- - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math127/math127_lecs.zip" "newtab" >}}Lecture notes (handwritten){{< /staticref >}}
+ - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math127/math127_lecs.zip" "newtab" >}}Lecture notes (handwritten){{< /staticref >}}
 
 <br>
 
 ## Math 117, Calculus I for Engineering, UWat
 
 Exercises and solutions (LaTeX):
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_1.pdf" "newtab" >}}Inequalities, Exponentials and Logarithms, Inverses{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_2.pdf" "newtab" >}}Composite Functions, Piecewise Functions, Partial Fractions{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_3.pdf" "newtab" >}}Trigonometric Functions, Hyperbolic Functions{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_4.pdf" "newtab" >}}Limits and Continuity{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_5.pdf" "newtab" >}}Differential Calculus{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_6.pdf" "newtab" >}}Differentials, L’Hopital’s Rule, and Curve Sketching{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_7.pdf" "newtab" >}}Riemann Integrals, The FTC and Integration Techniques{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_8.pdf" "newtab" >}}Further Integration Techniques and Applications{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/math117/examples_9.pdf" "newtab" >}}Improper Integrals, Polar Coordinates and Complex Numbers{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_1.pdf" "newtab" >}}Inequalities, Exponentials and Logarithms, Inverses{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_2.pdf" "newtab" >}}Composite Functions, Piecewise Functions, Partial Fractions{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_3.pdf" "newtab" >}}Trigonometric Functions, Hyperbolic Functions{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_4.pdf" "newtab" >}}Limits and Continuity{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_5.pdf" "newtab" >}}Differential Calculus{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_6.pdf" "newtab" >}}Differentials, L’Hopital’s Rule, and Curve Sketching{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_7.pdf" "newtab" >}}Riemann Integrals, The FTC and Integration Techniques{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_8.pdf" "newtab" >}}Further Integration Techniques and Applications{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/math117/examples_9.pdf" "newtab" >}}Improper Integrals, Polar Coordinates and Complex Numbers{{< /staticref >}}
 
 
 <br>
 
 ## AMATH 777, Stochastic Processes in the Physical Sciences, UWat
 
- - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/amath777/extinction_gillespie.pdf" "newtab" >}}Lecture on Gillespie's algorithm{{< /staticref >}}
- - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/amath777/gillespie.nb" "newtab" >}}Notebook to implement Gillespie's algorithm (Mathematica){{< /staticref >}}
+ - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/amath777/extinction_gillespie.pdf" "newtab" >}}Lecture on Gillespie's algorithm{{< /staticref >}}
+ - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/uwat/amath777/gillespie.nb" "newtab" >}}Notebook to implement Gillespie's algorithm (Mathematica){{< /staticref >}}
 
 
 <br>
 
 ## Teaching pedagogy
 We are interested in the development and implementation of cooperative learning techniques in the classroom. Below is an article written as part of the [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching) at the Universtiy of Waterloo.
- - {{< icon name="download" pack="fas" >}}{{< staticref "uploads/cut/coop_learning.pdf" "newtab" >}}On cooperative learning in undergraduate mathematics courses (2018){{< /staticref >}}
+ - {{< icon name="download" pack="fas" >}}{{< staticref "uploads/teaching/uwat/cut/coop_learning.pdf" "newtab" >}}On cooperative learning in undergraduate mathematics courses (2018){{< /staticref >}}
 
 
 

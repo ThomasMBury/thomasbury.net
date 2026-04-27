@@ -122,33 +122,40 @@
       <link>http://localhost:1313/teaching/calculus/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/calculus/</guid>
-      <description>&lt;h2 id=&#34;math-127-calculus-i-for-the-sciences-uwat&#34;&gt;Math 127, Calculus I for the Sciences, UWat&lt;/h2&gt;
+      <description>&lt;h2 style=&#34;font-size: 1.6rem; font-weight: 700; margin-top: 1.5rem;&#34;&gt;UC Riverside&lt;/h2&gt;
+&lt;h3 id=&#34;math-7b-winter-2026-calculus-ii-for-the-life-sciences&#34;&gt;Math 7B (Winter 2026), Calculus II for the Life Sciences&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math127/math127_lecs.zip&#34; target=&#34;_blank&#34;&gt;Lecture notes (handwritten)&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/ucr/math7b/math7b_lecture_notes_winter2026.zip&#34; target=&#34;_blank&#34;&gt;Lecture notes (handwritten)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&#34;font-size: 1.6rem; font-weight: 700; margin-top: 2rem;&#34;&gt;University of Waterloo&lt;/h2&gt;
+&lt;h3 id=&#34;math-127-fall-2018-calculus-i-for-the-sciences&#34;&gt;Math 127 (Fall 2018), Calculus I for the Sciences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math127/math127_lecs.zip&#34; target=&#34;_blank&#34;&gt;Lecture notes (handwritten)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;math-117-calculus-i-for-engineering-uwat&#34;&gt;Math 117, Calculus I for Engineering, UWat&lt;/h2&gt;
+&lt;h3 id=&#34;math-117-fall-2016-calculus-i-for-engineering&#34;&gt;Math 117 (Fall 2016), Calculus I for Engineering&lt;/h3&gt;
 &lt;p&gt;Exercises and solutions (LaTeX):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_1.pdf&#34; target=&#34;_blank&#34;&gt;Inequalities, Exponentials and Logarithms, Inverses&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_1.pdf&#34; target=&#34;_blank&#34;&gt;Inequalities, Exponentials and Logarithms, Inverses&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_2.pdf&#34; target=&#34;_blank&#34;&gt;Composite Functions, Piecewise Functions, Partial Fractions&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_2.pdf&#34; target=&#34;_blank&#34;&gt;Composite Functions, Piecewise Functions, Partial Fractions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_3.pdf&#34; target=&#34;_blank&#34;&gt;Trigonometric Functions, Hyperbolic Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_3.pdf&#34; target=&#34;_blank&#34;&gt;Trigonometric Functions, Hyperbolic Functions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_4.pdf&#34; target=&#34;_blank&#34;&gt;Limits and Continuity&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_4.pdf&#34; target=&#34;_blank&#34;&gt;Limits and Continuity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_5.pdf&#34; target=&#34;_blank&#34;&gt;Differential Calculus&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_5.pdf&#34; target=&#34;_blank&#34;&gt;Differential Calculus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_6.pdf&#34; target=&#34;_blank&#34;&gt;Differentials, L&#39;Hopital&#39;s Rule, and Curve Sketching&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_6.pdf&#34; target=&#34;_blank&#34;&gt;Differentials, L&#39;Hopital&#39;s Rule, and Curve Sketching&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_7.pdf&#34; target=&#34;_blank&#34;&gt;Riemann Integrals, The FTC and Integration Techniques&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_7.pdf&#34; target=&#34;_blank&#34;&gt;Riemann Integrals, The FTC and Integration Techniques&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_8.pdf&#34; target=&#34;_blank&#34;&gt;Further Integration Techniques and Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_8.pdf&#34; target=&#34;_blank&#34;&gt;Further Integration Techniques and Applications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/math117/examples_9.pdf&#34; target=&#34;_blank&#34;&gt;Improper Integrals, Polar Coordinates and Complex Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/math117/examples_9.pdf&#34; target=&#34;_blank&#34;&gt;Improper Integrals, Polar Coordinates and Complex Numbers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -208,7 +215,12 @@
       <link>http://localhost:1313/teaching/differential-equations/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/differential-equations/</guid>
-      <description>&lt;p&gt;Materials coming soon.&lt;/p&gt;
+      <description>&lt;h2 style=&#34;font-size: 1.6rem; font-weight: 700; margin-top: 1.5rem;&#34;&gt;UC Riverside&lt;/h2&gt;
+&lt;h3 id=&#34;math-46-winter-2026-introduction-to-ordinary-differential-equations&#34;&gt;Math 46 (Winter 2026), Introduction to Ordinary Differential Equations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/ucr/math46/math46_lecture_notes_winter2026.zip&#34; target=&#34;_blank&#34;&gt;Lecture notes (handwritten)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -220,10 +232,10 @@
       <description>&lt;h2 id=&#34;qlsc-600d1-resetting-and-entraining-biological-oscillators-mcgill&#34;&gt;QLSC 600D1, Resetting and Entraining Biological Oscillators, McGill&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/qls600/module1_outline.pdf&#34; target=&#34;_blank&#34;&gt;Course outline&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bootcamp on nonlinear dynamics (&lt;a href=&#34;http://localhost:1313/uploads/qls600/nonlinear_bootcamp.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Early warning signals for bifurcations (&lt;a href=&#34;http://localhost:1313/uploads/qls600/ews_slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/uploads/qls600/ews_practice.ipynb.zip&#34;&gt;Jupyter notebook&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Cardiac arrhythmia (&lt;a href=&#34;http://localhost:1313/uploads/qls600/cardiac_arrhythmia.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/mcgill/qls600/module1_outline.pdf&#34; target=&#34;_blank&#34;&gt;Course outline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bootcamp on nonlinear dynamics (&lt;a href=&#34;http://localhost:1313/uploads/teaching/mcgill/qls600/nonlinear_bootcamp.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Early warning signals for bifurcations (&lt;a href=&#34;http://localhost:1313/uploads/teaching/mcgill/qls600/ews_slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/uploads/teaching/mcgill/qls600/ews_practice.ipynb.zip&#34;&gt;Jupyter notebook&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Cardiac arrhythmia (&lt;a href=&#34;http://localhost:1313/uploads/teaching/mcgill/qls600/cardiac_arrhythmia.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -404,9 +416,9 @@ Current research questions:
       <description>&lt;h2 id=&#34;amath-777-stochastic-processes-in-the-physical-sciences-uwat&#34;&gt;AMATH 777, Stochastic Processes in the Physical Sciences, UWat&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/amath777/extinction_gillespie.pdf&#34; target=&#34;_blank&#34;&gt;Lecture on Gillespie&#39;s algorithm&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/amath777/extinction_gillespie.pdf&#34; target=&#34;_blank&#34;&gt;Lecture on Gillespie&#39;s algorithm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/amath777/gillespie.nb&#34; target=&#34;_blank&#34;&gt;Notebook to implement Gillespie&#39;s algorithm (Mathematica)&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/amath777/gillespie.nb&#34; target=&#34;_blank&#34;&gt;Notebook to implement Gillespie&#39;s algorithm (Mathematica)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -458,7 +470,7 @@ Current research questions:
 &lt;p&gt;We are interested in the development and implementation of cooperative learning techniques in the classroom. Below is an article written as part of the &lt;a href=&#34;https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate in University Teaching&lt;/a&gt; at the University of Waterloo.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;http://localhost:1313/uploads/cut/coop_learning.pdf&#34; target=&#34;_blank&#34;&gt;On cooperative learning in undergraduate mathematics courses (2018)&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;a href=&#34;http://localhost:1313/uploads/teaching/uwat/cut/coop_learning.pdf&#34; target=&#34;_blank&#34;&gt;On cooperative learning in undergraduate mathematics courses (2018)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -14,4 +14,4 @@ type: landing
 
 We are interested in the development and implementation of cooperative learning techniques in the classroom. Below is an article written as part of the [Certificate in University Teaching](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/certificate-university-teaching) at the University of Waterloo.
 
- - {{< icon name="download" pack="fas" >}}{{< staticref "uploads/cut/coop_learning.pdf" "newtab" >}}On cooperative learning in undergraduate mathematics courses (2018){{< /staticref >}}
+ - {{< icon name="download" pack="fas" >}}{{< staticref "uploads/teaching/uwat/cut/coop_learning.pdf" "newtab" >}}On cooperative learning in undergraduate mathematics courses (2018){{< /staticref >}}

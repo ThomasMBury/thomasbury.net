@@ -10,4 +10,8 @@ comments: false
 type: landing
 ---
 
-Materials coming soon.
+<h2 style="font-size: 1.6rem; font-weight: 700; margin-top: 1.5rem;">UC Riverside</h2>
+
+### Math 46 (Winter 2026), Introduction to Ordinary Differential Equations
+
+ - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/teaching/ucr/math46/math46_lecture_notes_winter2026.zip" "newtab" >}}Lecture notes (handwritten){{< /staticref >}}
