@@ -14,7 +14,7 @@ organizations:
     url: https://mathdept.ucr.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Specializes in nonlinear dynamics and machine learning applied to the natural sciences.
+bio: Works at the intersection of nonlinear dynamics and machine learning, with a focus on early warning signals for tipping points.
 
 # Interests to show in About widget
 interests:

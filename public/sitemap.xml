@@ -36,7 +36,15 @@
   <url>
     <loc>http://localhost:1313/publications/diagne_prl_23/</loc><lastmod>2022-05-23T12:03:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/teaching/calculus/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/dashboards/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/data-visualization/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/differential-equations/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/mathematical-biology/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/music/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -44,9 +52,13 @@
   <url>
     <loc>http://localhost:1313/software/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/teaching/stochastic-processes/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/talks/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/teaching/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/teaching-pedagogy/</loc><lastmod>2022-12-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/bury_pnas_21/</loc><lastmod>2022-05-23T12:03:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

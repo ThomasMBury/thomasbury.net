@@ -17,8 +17,32 @@ main:
     url: 'software/'
     weight: 35
   - name: Teaching
-    url: 'teaching/'
+    identifier: teaching
     weight: 40
+  - name: Calculus
+    url: 'teaching/calculus/'
+    parent: teaching
+    weight: 1
+  - name: Differential Equations
+    url: 'teaching/differential-equations/'
+    parent: teaching
+    weight: 2
+  - name: Stochastic Processes
+    url: 'teaching/stochastic-processes/'
+    parent: teaching
+    weight: 3
+  - name: Data Visualization
+    url: 'teaching/data-visualization/'
+    parent: teaching
+    weight: 4
+  - name: Mathematical Biology
+    url: 'teaching/mathematical-biology/'
+    parent: teaching
+    weight: 5
+  - name: Teaching Pedagogy
+    url: 'teaching/teaching-pedagogy/'
+    parent: teaching
+    weight: 6
   - name: Talks
     url: 'talks/'
     weight: 50
