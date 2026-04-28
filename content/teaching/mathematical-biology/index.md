@@ -8,6 +8,8 @@ share: false
 profile: false
 comments: false
 type: landing
+design:
+  css_class: teaching-wide
 ---
 
 ## QLSC 600D1, Resetting and Entraining Biological Oscillators, McGill

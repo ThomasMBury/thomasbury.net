@@ -8,6 +8,8 @@ share: false
 profile: false
 comments: false
 type: landing
+design:
+  css_class: teaching-wide
 ---
 
 <h2 style="font-size: 1.6rem; font-weight: 700; margin-top: 1.5rem;">UC Riverside</h2>

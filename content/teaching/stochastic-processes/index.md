@@ -8,6 +8,8 @@ share: false
 profile: false
 comments: false
 type: landing
+design:
+  css_class: teaching-wide
 ---
 
 ## AMATH 777, Stochastic Processes in the Physical Sciences, UWat
