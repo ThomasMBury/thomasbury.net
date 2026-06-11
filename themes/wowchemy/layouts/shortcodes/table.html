@@ -11,7 +11,16 @@
 {{ if not $is_remote }}
   {{ $src = path.Join  "content" $.Page.File.Dir $src }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
+{{ $rows := "" }}
+{{ if $is_remote }}
+  {{ with resources.GetRemote $src }}
+    {{ $rows = . | transform.Unmarshal (dict "Delimiter" $delimiter) }}
+  {{ end }}
+{{ else }}
+  {{ with os.ReadFile $src }}
+    {{ $rows = . | transform.Unmarshal (dict "Delimiter" $delimiter) }}
+  {{ end }}
+{{ end }}
 
 <table class="table">
   {{ if $useHeaderRow }}
