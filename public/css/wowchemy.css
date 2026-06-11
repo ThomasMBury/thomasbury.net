@@ -9637,5 +9637,5 @@ a:hover {
   margin: 0 10px; }
 
 /* Wider content on teaching pages */
-.teaching-wide .article-container {
+body.teaching-wide .article-container {
   max-width: 1000px; }
